@@ -38,9 +38,9 @@ Contributions are welcome, as is feedback.
 
 ### OCR engines
 
-* [tesseract](https://github.com/tesseract-ocr/tesseract) - The definitive Open Source OCR engine
-* [ocropus](https://github.com/tmbdev/ocropy) - OCR engine based on CLSTM
-* [Ocrad](http://www.gnu.org/software/ocrad/) - The GNU OCR.
+* [tesseract](https://github.com/tesseract-ocr/tesseract) - The definitive Open Source OCR engine `Apache 2.0`
+* [ocropus](https://github.com/tmbdev/ocropy) - OCR engine based on CLSTM, `Apache 2.0`
+* [Ocrad](http://www.gnu.org/software/ocrad/) - The GNU OCR. `GPL`
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
 * [MathOCR](https://github.com/chungkwong/MathOCR) - A printed scientific document recognition system, **pre-alpha**
 * [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
