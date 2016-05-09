@@ -42,13 +42,21 @@ Contributions are welcome, as is feedback.
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
 * [MathOCR](https://github.com/chungkwong/MathOCR) - A printed scientific document recognition system, **pre-alpha**
 * [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
+* [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
 
 ### OCR file formats
+
+#### hOCR
 
 * [hocr-tools](https://github.com/tmbdev/hocr-tools) - Tools for doing various useful things with hOCR files
 * [hocr-spec](https://github.com/kba/hocr-spec) - hOCR 1.1 specification
 * [ocr-transform](https://github.com/UB-Mannheim/ocr-transform) - CLI tool to convert between hOCR and ALTO
 * [hocr-parser](https://github.com/athento/hocr-parser) - hOCR Specification Python Parser
+
+#### ALTO XML
+
+* [ALTO XML Schema](https://github.com/altoxml/schema) - XML Schema and development of the ALTO XML format
+
 
 ### OCR GUI
 
