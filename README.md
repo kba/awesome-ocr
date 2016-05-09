@@ -15,6 +15,8 @@ Contributions are welcome, as is feedback.
 * [Software](#software)
 	* [OCR engines](#ocr-engines)
 	* [OCR file formats](#ocr-file-formats)
+		* [hOCR](#hocr)
+		* [ALTO XML](#alto-xml)
 	* [OCR GUI](#ocr-gui)
 	* [OCR Preprocessing](#ocr-preprocessing)
 	* [OCR Showcases](#ocr-showcases)
