@@ -45,6 +45,7 @@ Contributions are welcome!
 * [Paperwork](https://github.com/jflesch/paperwork) - Using scanners and OCR to grep paper documents the easy way (Linux only).
 * [gImageReader](https://github.com/manisandro/gImageReader) - gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.
 * [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine.
+* [PoToCo](https://github.com/cisocrgroup/PoCoTo) - Fast interactive batch corrections of complete OCR error series in OCR'ed historical documents.
 
 ## OCR Showcases
 
