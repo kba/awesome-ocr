@@ -19,7 +19,6 @@ Contributions are welcome, as is feedback.
 		* [ALTO XML](#alto-xml)
 	* [OCR GUI](#ocr-gui)
 	* [OCR Preprocessing](#ocr-preprocessing)
-	* [OCR Showcases](#ocr-showcases)
 	* [OCR as a Service](#ocr-as-a-service)
 	* [OCR libraries](#ocr-libraries)
 		* [Go](#go)
@@ -32,6 +31,7 @@ Contributions are welcome, as is feedback.
 * [Literature](#literature)
 	* [OCR-related publication and link lists](#ocr-related-publication-and-link-lists)
 	* [Blog Posts and Tutorials](#blog-posts-and-tutorials)
+	* [OCR Showcases](#ocr-showcases)
 	* [Academic articles](#academic-articles)
 
 ## Software
@@ -42,7 +42,6 @@ Contributions are welcome, as is feedback.
 * [ocropus](https://github.com/tmbdev/ocropy) - OCR engine based on CLSTM, `Apache 2.0`
 * [Ocrad](http://www.gnu.org/software/ocrad/) - The GNU OCR. `GPL`
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
-* [MathOCR](https://github.com/chungkwong/MathOCR) - A printed scientific document recognition system, **pre-alpha**
 * [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
 
@@ -75,6 +74,7 @@ Contributions are welcome, as is feedback.
 * [NoiseRemove.java in MathOCR](https://github.com/chungkwong/MathOCR/blob/master/src/net/sf/mathocr/preprocess/NoiseRemove.java) - Java implementation of 
 * [binarize.c in ZBar](https://github.com/ZBar/ZBar/blob/master/zbar/qrcode/binarize.c) - C implementations of two binarization algorithms, based on Sauvola 
 * [typeface-corpus](https://github.com/jbest/typeface-corpus) - A repository for typefaces to train Tesseract and OCRopus for natural history collections and digital humanities.
+* [binarizewolfjolion](https://github.com/zp-j/binarizewolfjolion) - Comparison of binarization algorithms. [Blog post](http://zp-j.github.io/2013/10/04/document-binarization/)
 
 ### OCR as a Service
 
@@ -138,6 +138,8 @@ Contributions are welcome, as is feedback.
 ### OCR Showcases
 
 * [abbyy-finereader-ocr-senate](https://github.com/dannguyen/abbyy-finereader-ocr-senate) - Using OCR to parse scanned Senate Financial Disclosure forms.
+* [cvOCR](https://github.com/Halfish/cvOCR) - An OCR system for recognizing resume or cv text, implemented in Python and C and based on tesseract
+* [MathOCR](https://github.com/chungkwong/MathOCR) - A printed scientific document recognition system, **pre-alpha**
 
 ### Academic articles
 
