@@ -85,7 +85,11 @@ Contributions are welcome, as is feedback.
 * [ABBYY Cloud OCR SDK Code samples](https://github.com/abbyysdk/ocrsdk.com) - Code samples for using the proprietary commercial ABBYY OCR API.
 * [nidaba](https://github.com/OpenPhilology/nidaba) -  An expandable and scalable OCR pipeline
 
-### OCR libraries
+### OCR evaluation
+
+* [isri-ocr-evaluation-tools](https://github.com/eddieantonio/isri-ocr-evaluation-tools) - The ISRI Analytic Tools for OCR Evaluation [User Guide from 1996 :!:](https://github.com/eddieantonio/isri-ocr-evaluation-tools/blob/HEAD/user-guide.pdf)
+
+### OCR libraries by programming language
 
 #### Go
 
