@@ -49,6 +49,8 @@ Contributions are welcome, as is feedback.
 
 ### OCR file formats
 
+* [abby2hocr.xslt XSLT script](https://gist.github.com/tfmorris/5977784)
+
 #### hOCR
 
 * [hocr-tools](https://github.com/tmbdev/hocr-tools) - Tools for doing various useful things with hOCR files, `Apache 2.0`
