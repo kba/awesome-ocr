@@ -12,6 +12,7 @@ Contributions are welcome, as is feedback.
 ## Table of Contents
 
 <!-- vim: GenTocGFM -->
+
 * [Software](#software)
 	* [OCR engines](#ocr-engines)
 	* [OCR file formats](#ocr-file-formats)
@@ -20,7 +21,8 @@ Contributions are welcome, as is feedback.
 	* [OCR GUI](#ocr-gui)
 	* [OCR Preprocessing](#ocr-preprocessing)
 	* [OCR as a Service](#ocr-as-a-service)
-	* [OCR libraries](#ocr-libraries)
+	* [OCR evaluation](#ocr-evaluation)
+	* [OCR libraries by programming language](#ocr-libraries-by-programming-language)
 		* [Go](#go)
 		* [Java](#java)
 		* [.Net](#net)
