@@ -46,6 +46,7 @@ Contributions are welcome, as is feedback.
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
 * [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
+* [digit](https://github.com/SHUCV/digit) - OCR for numbers in meter displays, such as a power meter, using [caffe](http://caffe.berkeleyvision.org/)
 
 ### OCR file formats
 
