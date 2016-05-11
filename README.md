@@ -135,6 +135,7 @@ Contributions are welcome, as is feedback.
 * [OCR-D](https://www.zotero.org/groups/ocr-d) - List of OCR-related academic articles in the context of the [OCR-D](http://www.ocr-d.de/) project. :de:
 * [Mendeley Group "OCR - Optical Character Recognition"](https://www.mendeley.com/groups/752871/ocr-optical-character-recognition/) - Collection of 34 papers on OCR
 * [eadh.org projects](http://eadh.org/projects) - List of Digital Humanities-related projects in europe, some related to OCR
+* [Wikipedia: Comparison of optical character recognition software](https://en.wikipedia.org/wiki/Comparison_of_optical_character_recognition_software)
 
 ### Blog Posts and Tutorials
 
