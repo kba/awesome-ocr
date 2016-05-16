@@ -158,4 +158,4 @@ Contributions are welcome, as is feedback.
 ### Academic articles
 
 * [Gatos, Pratikakis, Perantonis: "Adaptive degraded document image binarization" (2006)](http://doai.io/10.1016/j.patcog.2005.09.010)
-* [Bilansky: "TypeWright: An Experiment in Participatory Curation" (2015](http://www.digitalhumanities.org/dhq/vol/9/4/000220/000220.html) - On crowd-sourcing OCR postcorrection
+* [Bilansky: "TypeWright: An Experiment in Participatory Curation" (2015)](http://www.digitalhumanities.org/dhq/vol/9/4/000220/000220.html) - On crowd-sourcing OCR postcorrection
