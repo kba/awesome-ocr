@@ -153,7 +153,9 @@ Contributions are welcome, as is feedback.
 * [abbyy-finereader-ocr-senate](https://github.com/dannguyen/abbyy-finereader-ocr-senate) - Using OCR to parse scanned Senate Financial Disclosure forms.
 * [cvOCR](https://github.com/Halfish/cvOCR) - An OCR system for recognizing resume or cv text, implemented in Python and C and based on tesseract
 * [MathOCR](https://github.com/chungkwong/MathOCR) - A printed scientific document recognition system, **pre-alpha**
+* 
 
 ### Academic articles
 
 * [Gatos, Pratikakis, Perantonis: "Adaptive degraded document image binarization" (2006)](http://doai.io/10.1016/j.patcog.2005.09.010)
+* [Bilansky: "TypeWright: An Experiment in Participatory Curation" (2015](http://www.digitalhumanities.org/dhq/vol/9/4/000220/000220.html) - On crowd-sourcing OCR postcorrection
