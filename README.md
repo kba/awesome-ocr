@@ -64,7 +64,9 @@ Contributions are welcome, as is feedback.
 #### ALTO XML
 
 * [ALTO XML Schema](https://github.com/altoxml/schema) - XML Schema and development of the ALTO XML format
+* [ALTO XML Documentation](https://github.com/altoxml/documentation) - Documentation and use cases for ALTO
 * [alto-tools](https://github.com/cneud/alto-tools) - Various tools to work with ALTO files, Python
+* [AbbyyToAlto](https://github.com/ironymark/AbbyyToAlto) - PHP script converting from Abbbyy 6 to ALTO XML
 
 
 ### OCR GUI
@@ -92,6 +94,7 @@ Contributions are welcome, as is feedback.
 * [docker-ocropus](https://github.com/tmbdev/docker-ocropus) - A small Docker built for the OCRopus OCR system.
 * [ABBYY Cloud OCR SDK Code samples](https://github.com/abbyysdk/ocrsdk.com) - Code samples for using the proprietary commercial ABBYY OCR API.
 * [nidaba](https://github.com/OpenPhilology/nidaba) -  An expandable and scalable OCR pipeline
+* [gamera](https://github.com/hsnr-gamera/gamera) - A meta-framework for building document processing applications, e.g. OCR
 
 ### OCR evaluation
 
