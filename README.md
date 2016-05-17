@@ -46,6 +46,7 @@ Contributions are welcome, as is feedback.
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
 * [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
+* [digit](https://github.com/SHUCV/digit) - OCR for numbers in meter displays, such as a power meter, using [caffe](http://caffe.berkeleyvision.org/)
 
 ### OCR file formats
 
@@ -134,9 +135,11 @@ Contributions are welcome, as is feedback.
 
 ### OCR-related publication and link lists
 
+* [IMPACT: Tools for text digitisation](http://www.digitisation.eu/tools-resources/tools-for-text-digitisation/) - List of tools software projects related, some related to OCR
 * [OCR-D](https://www.zotero.org/groups/ocr-d) - List of OCR-related academic articles in the context of the [OCR-D](http://www.ocr-d.de/) project. :de:
 * [Mendeley Group "OCR - Optical Character Recognition"](https://www.mendeley.com/groups/752871/ocr-optical-character-recognition/) - Collection of 34 papers on OCR
 * [eadh.org projects](http://eadh.org/projects) - List of Digital Humanities-related projects in europe, some related to OCR
+* [Wikipedia: Comparison of optical character recognition software](https://en.wikipedia.org/wiki/Comparison_of_optical_character_recognition_software)
 
 ### Blog Posts and Tutorials
 
@@ -153,7 +156,9 @@ Contributions are welcome, as is feedback.
 * [abbyy-finereader-ocr-senate](https://github.com/dannguyen/abbyy-finereader-ocr-senate) - Using OCR to parse scanned Senate Financial Disclosure forms.
 * [cvOCR](https://github.com/Halfish/cvOCR) - An OCR system for recognizing resume or cv text, implemented in Python and C and based on tesseract
 * [MathOCR](https://github.com/chungkwong/MathOCR) - A printed scientific document recognition system, **pre-alpha**
+* 
 
 ### Academic articles
 
 * [Gatos, Pratikakis, Perantonis: "Adaptive degraded document image binarization" (2006)](http://doai.io/10.1016/j.patcog.2005.09.010)
+* [Bilansky: "TypeWright: An Experiment in Participatory Curation" (2015)](http://www.digitalhumanities.org/dhq/vol/9/4/000220/000220.html) - On crowd-sourcing OCR postcorrection
