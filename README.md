@@ -50,6 +50,7 @@ Contributions are welcome, as is feedback.
 ### OCR file formats
 
 * [abby2hocr.xslt XSLT script](https://gist.github.com/tfmorris/5977784)
+* [ocr-conversion-scripts](https://github.com/cneud/ocr-conversion-scripts)
 
 #### hOCR
 
@@ -57,10 +58,12 @@ Contributions are welcome, as is feedback.
 * [hocr-spec](https://github.com/kba/hocr-spec) - hOCR 1.1 specification
 * [ocr-transform](https://github.com/UB-Mannheim/ocr-transform) - CLI tool to convert between hOCR and ALTO, `MIT`
 * [hocr-parser](https://github.com/athento/hocr-parser) - hOCR Specification Python Parser
+* [hOCRTools](https://github.com/ONB-RD/hOCRTools) - hOCR to ALTO conversion XSLT
 
 #### ALTO XML
 
 * [ALTO XML Schema](https://github.com/altoxml/schema) - XML Schema and development of the ALTO XML format
+* [alto-tools](https://github.com/cneud/alto-tools) - Various tools to work with ALTO files, Python
 
 
 ### OCR GUI
