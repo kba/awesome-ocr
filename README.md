@@ -47,6 +47,7 @@ Contributions are welcome, as is feedback.
 * [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
 * [digit](https://github.com/SHUCV/digit) - OCR for numbers in meter displays, such as a power meter, using [caffe](http://caffe.berkeleyvision.org/)
+* [ocular](https://github.com/tberg12/ocular) - Machine-learning OCR for historic documents
 
 ### OCR file formats
 
@@ -95,10 +96,14 @@ Contributions are welcome, as is feedback.
 * [ABBYY Cloud OCR SDK Code samples](https://github.com/abbyysdk/ocrsdk.com) - Code samples for using the proprietary commercial ABBYY OCR API.
 * [nidaba](https://github.com/OpenPhilology/nidaba) -  An expandable and scalable OCR pipeline
 * [gamera](https://github.com/hsnr-gamera/gamera) - A meta-framework for building document processing applications, e.g. OCR
+* [ocr-tools](https://github.com/subugoe/ocr-tools) - Project to provide CLI and web service interfaces to common OCR engines
 
 ### OCR evaluation
 
 * [isri-ocr-evaluation-tools](https://github.com/eddieantonio/isri-ocr-evaluation-tools) - The ISRI Analytic Tools for OCR Evaluation [User Guide from 1996 :!:](https://github.com/eddieantonio/isri-ocr-evaluation-tools/blob/HEAD/user-guide.pdf)
+* [ocrevalUAtion](https://github.com/impactcentre/ocrevalUAtion) - Cross-format evaluation, CLI and GUI
+* [ngram-ocr-eval](https://github.com/impactcentre/hackathon2014/tree/master/ngram-ocr-eval) - Brute and simple OCR evaluation using ngrams
+* [ancientgreekocr-evaluation-tools](https://github.com/ryanfb/ancientgreekocr-ocr-evaluation-tools) - Tools to test OCR accuracy
 
 ### OCR libraries by programming language
 
@@ -151,6 +156,7 @@ Contributions are welcome, as is feedback.
 * [@zuphilip](https://github.com/zuphilip): [Ocropus Wiki: Compute errors and confusions](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusions)
 * [@zuphilip](https://github.com/zuphilip): [Ocropus Wiki: Working with Ground Truth](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusion://github.com/tmbdev/ocropy/wiki/Working-with-Ground-Truth)
 * [@jze](https://github.com/jze): [OCRopus](https://comsys.informatik.uni-kiel.de/lang/de/res/ocropus/) - mostly on column separation in ocropus
+* [@cneud](https://github.com/cneud): [10 Tips for making your OCR project succeed](http://blog.kbresearch.nl/2013/12/12/10-tips-for-making-your-ocr-project-succeed/) - general things to consider for OCR projects
 * [Overview of LEADTOOLS Image Cleanup and Pre-processing SDK Technology](https://www.leadtools.com/sdk/image-processing/document) -
   This feature list for a commercial image pre-processing library has nice before-after samples for pre-processing steps related to OCR
 
