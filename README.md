@@ -97,7 +97,6 @@ Contributions are welcome, as is feedback.
 * [nidaba](https://github.com/OpenPhilology/nidaba) -  An expandable and scalable OCR pipeline
 * [gamera](https://github.com/hsnr-gamera/gamera) - A meta-framework for building document processing applications, e.g. OCR
 * [ocr-tools](https://github.com/subugoe/ocr-tools) - Project to provide CLI and web service interfaces to common OCR engines
-* [ocrsdk.com](https://github.com/abbyysdk/ocrsdk.com) - Code samples for ABBYY cloud OCR
 
 ### OCR evaluation
 
