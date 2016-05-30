@@ -104,6 +104,7 @@ Contributions are welcome, as is feedback.
 * [ocrevalUAtion](https://github.com/impactcentre/ocrevalUAtion) - Cross-format evaluation, CLI and GUI
 * [ngram-ocr-eval](https://github.com/impactcentre/hackathon2014/tree/master/ngram-ocr-eval) - Brute and simple OCR evaluation using ngrams
 * [ancientgreekocr-evaluation-tools](https://github.com/ryanfb/ancientgreekocr-ocr-evaluation-tools) - Tools to test OCR accuracy
+* [quack](https://github.com/tokee/quack) - Quality-Assurance-tool for scans with corresponding ALTO-files
 
 ### OCR libraries by programming language
 
