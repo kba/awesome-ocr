@@ -9,10 +9,7 @@ related to [Optical Character Recognition
 
 Contributions are welcome, as is feedback.
 
-## Table of Contents
-
-<!-- vim: GenTocGFM -->
-
+<!-- BEGIN-MARKDOWN-TOC -->
 * [Software](#software)
 	* [OCR engines](#ocr-engines)
 	* [OCR file formats](#ocr-file-formats)
@@ -35,6 +32,8 @@ Contributions are welcome, as is feedback.
 	* [Blog Posts and Tutorials](#blog-posts-and-tutorials)
 	* [OCR Showcases](#ocr-showcases)
 	* [Academic articles](#academic-articles)
+
+<!-- END-MARKDOWN-TOC -->
 
 ## Software
 
@@ -82,8 +81,8 @@ Contributions are welcome, as is feedback.
 
 ### OCR Preprocessing
 
-* [NoiseRemove.java in MathOCR](https://github.com/chungkwong/MathOCR/blob/master/src/net/sf/mathocr/preprocess/NoiseRemove.java) - Java implementation of 
-* [binarize.c in ZBar](https://github.com/ZBar/ZBar/blob/master/zbar/qrcode/binarize.c) - C implementations of two binarization algorithms, based on Sauvola 
+* [NoiseRemove.java in MathOCR](https://github.com/chungkwong/MathOCR/blob/master/src/net/sf/mathocr/preprocess/NoiseRemove.java) - Java implementation of
+* [binarize.c in ZBar](https://github.com/ZBar/ZBar/blob/master/zbar/qrcode/binarize.c) - C implementations of two binarization algorithms, based on Sauvola
 * [typeface-corpus](https://github.com/jbest/typeface-corpus) - A repository for typefaces to train Tesseract and OCRopus for natural history collections and digital humanities.
 * [binarizewolfjolion](https://github.com/zp-j/binarizewolfjolion) - Comparison of binarization algorithms. [Blog post](http://zp-j.github.io/2013/10/04/document-binarization/)
 * [`crop_morphology.py` in oldnyc](https://github.com/danvk/oldnyc) - Cropping a page to just the text block
@@ -168,7 +167,7 @@ Contributions are welcome, as is feedback.
 * [abbyy-finereader-ocr-senate](https://github.com/dannguyen/abbyy-finereader-ocr-senate) - Using OCR to parse scanned Senate Financial Disclosure forms.
 * [cvOCR](https://github.com/Halfish/cvOCR) - An OCR system for recognizing resume or cv text, implemented in Python and C and based on tesseract
 * [MathOCR](https://github.com/chungkwong/MathOCR) - A printed scientific document recognition system, **pre-alpha**
-* 
+*
 
 ### Academic articles
 
