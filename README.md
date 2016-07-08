@@ -41,10 +41,11 @@ Contributions are welcome, as is feedback.
 
 * [tesseract](https://github.com/tesseract-ocr/tesseract) - The definitive Open Source OCR engine `Apache 2.0`
 * [ocropus](https://github.com/tmbdev/ocropy) - OCR engine based on CLSTM, `Apache 2.0`
+* [ocropus 0.4](https://github.com/jkrall/ocropus) - Older v0.4 state of Ocropus, with tesseract 2.04 and iulib, C++
+* [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
+* [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
 * [Ocrad](http://www.gnu.org/software/ocrad/) - The GNU OCR. `GPL`
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
-* [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
-* [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
 * [digit](https://github.com/SHUCV/digit) - OCR for numbers in meter displays, such as a power meter, using [caffe](http://caffe.berkeleyvision.org/)
 * [ocular](https://github.com/tberg12/ocular) - Machine-learning OCR for historic documents
 
