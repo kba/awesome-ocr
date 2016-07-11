@@ -161,6 +161,10 @@ Contributions are welcome, as is feedback.
 * [@cneud](https://github.com/cneud): [10 Tips for making your OCR project succeed](http://blog.kbresearch.nl/2013/12/12/10-tips-for-making-your-ocr-project-succeed/) - general things to consider for OCR projects
 * [Overview of LEADTOOLS Image Cleanup and Pre-processing SDK Technology](https://www.leadtools.com/sdk/image-processing/document) -
   This feature list for a commercial image pre-processing library has nice before-after samples for pre-processing steps related to OCR
+* [@shawngraham](/shawngraham): [Extracting Text from PDFs; Doing OCR; all within R](https://electricarchaeology.ca/2014/07/15/doing-ocr-within-r/)
+  Article on how to work with OCR on PDFs in the [R programming environment](https://www.r-project.org/)
+* [@bmschmidt](https://github.com/bmschmidt):
+  [Tutorial: Command-line OCR on a Mac](http://benschmidt.org/dighist13/?page_id=129) - Tutorial on how to run tesseract in Mac OSX
 
 ### OCR Showcases
 
