@@ -66,7 +66,7 @@ Contributions are welcome, as is feedback.
 * [ALTO XML Schema](https://github.com/altoxml/schema) - XML Schema and development of the ALTO XML format
 * [ALTO XML Documentation](https://github.com/altoxml/documentation) - Documentation and use cases for ALTO
 * [alto-tools](https://github.com/cneud/alto-tools) - Various tools to work with ALTO files, Python
-* [AbbyyToAlto](https://github.com/ironymark/AbbyyToAlto) - PHP script converting from Abbbyy 6 to ALTO XML
+* [AbbyyToAlto](https://github.com/ironymark/AbbyyToAlto) - PHP script converting from Abbyy 6 to ALTO XML
 
 
 ### OCR GUI
@@ -151,7 +151,7 @@ Contributions are welcome, as is feedback.
 * [IMPACT: Tools for text digitisation](http://www.digitisation.eu/tools-resources/tools-for-text-digitisation/) - List of tools software projects related, some related to OCR
 * [OCR-D](https://www.zotero.org/groups/ocr-d) - List of OCR-related academic articles in the context of the [OCR-D](http://www.ocr-d.de/) project. :de:
 * [Mendeley Group "OCR - Optical Character Recognition"](https://www.mendeley.com/groups/752871/ocr-optical-character-recognition/) - Collection of 34 papers on OCR
-* [eadh.org projects](http://eadh.org/projects) - List of Digital Humanities-related projects in europe, some related to OCR
+* [eadh.org projects](http://eadh.org/projects) - List of Digital Humanities-related projects in Europe, some related to OCR
 * [Wikipedia: Comparison of optical character recognition software](https://en.wikipedia.org/wiki/Comparison_of_optical_character_recognition_software)
 
 ### Blog Posts and Tutorials
