@@ -92,7 +92,7 @@ Contributions are welcome, as is feedback.
 
 * [Open OCR](https://github.com/tleyden/open-ocr) - Run Tesseract in Docker containers
 * [tesseract-web-service](https://github.com/guitarmind/tesseract-web-service) - An implementation of RESTful web service for tesseract-OCR using tornado.
-* [docker-ocropus](https://github.com/tmbdev/docker-ocropus) - A small Docker built for the OCRopus OCR system.
+* [docker-ocropy](https://github.com/kba/docker-ocropy) - A Docker container for running the [ocropy OCR system](htps://github.com/tmbdev/ocropy).
 * [ABBYY Cloud OCR SDK Code samples](https://github.com/abbyysdk/ocrsdk.com) - Code samples for using the proprietary commercial ABBYY OCR API.
 * [nidaba](https://github.com/OpenPhilology/nidaba) -  An expandable and scalable OCR pipeline
 * [gamera](https://github.com/hsnr-gamera/gamera) - A meta-framework for building document processing applications, e.g. OCR
