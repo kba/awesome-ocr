@@ -47,6 +47,7 @@ Contributions are welcome, as is feedback.
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
 * [digit](https://github.com/SHUCV/digit) - OCR for numbers in meter displays, such as a power meter, using [caffe](http://caffe.berkeleyvision.org/)
 * [ocular](https://github.com/tberg12/ocular) - Machine-learning OCR for historic documents
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - fast and simple OCR library written in Swift
 
 ### OCR file formats
 
