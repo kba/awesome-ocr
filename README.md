@@ -158,7 +158,8 @@ Contributions are welcome, as is feedback.
 
 ### Blog Posts and Tutorials
 
-* [@theraysmith](https://github.com/theraysmith): [What You Always Wanted To Know About Tesseract](https://drive.google.com/folderview?id=0B7l10Bj_LprhQnpSRkpGMGV2eE0&usp#list)
+* [@theraysmith](https://github.com/theraysmith) (2016): [Tesseract Blends Old and New OCR Technology](https://github.com/tesseract-ocr/docs/tree/master/das_tutorial2016) - Tutorial@DAS2016, Updated "What You Always Wanted to Know" slides
+* [@theraysmith](https://github.com/theraysmith) (2014): [What You Always Wanted To Know About Tesseract](https://drive.google.com/folderview?id=0B7l10Bj_LprhQnpSRkpGMGV2eE0&usp#list) - Tutorial@DAS2014, includes demos
 * [@danvk](https://github.com/danvk): [Extracting text from an image using Ocropus](http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html)
 * [@danvk](https://github.com/danvk): [Training an Ocropus OCR model](http://www.danvk.org/2015/01/11/training-an-ocropus-ocr-model.html)
 * [@zuphilip](https://github.com/zuphilip): [Ocropus Wiki: Compute errors and confusions](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusions)
