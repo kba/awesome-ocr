@@ -27,6 +27,7 @@ Contributions are welcome, as is feedback.
 		* [PHP](#php)
 		* [Python](#python)
 		* [Ruby](#ruby)
+	* [OCR training and evaluation tools](#ocr-training-and-evaluation-tools)
 * [Literature](#literature)
 	* [OCR-related publication and link lists](#ocr-related-publication-and-link-lists)
 	* [Blog Posts and Tutorials](#blog-posts-and-tutorials)
@@ -144,6 +145,10 @@ Contributions are welcome, as is feedback.
 
 * [rtesseract](https://github.com/dannnylo/rtesseract) - Ruby library wrapping the tesseract and imagemagick executables.
 * [ruby-tesseract](https://github.com/meh/ruby-tesseract-ocr) - Native Tesseract bindings for Ruby MRI and JRuby
+
+### OCR training and evaluation tools
+
+* [glyph-miner](https://github.com/benedikt-budig/glyph-miner) - A system for extracting glyphs from early typeset prints
 
 ## Literature
 
