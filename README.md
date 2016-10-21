@@ -178,9 +178,35 @@ Contributions are welcome, as is feedback.
 * [abbyy-finereader-ocr-senate](https://github.com/dannguyen/abbyy-finereader-ocr-senate) - Using OCR to parse scanned Senate Financial Disclosure forms.
 * [cvOCR](https://github.com/Halfish/cvOCR) - An OCR system for recognizing resume or cv text, implemented in Python and C and based on tesseract
 * [MathOCR](https://github.com/chungkwong/MathOCR) - A printed scientific document recognition system, **pre-alpha**
-*
 
 ### Academic articles
 
-* [Gatos, Pratikakis, Perantonis: "Adaptive degraded document image binarization" (2006)](http://doai.io/10.1016/j.patcog.2005.09.010)
-* [Bilansky: "TypeWright: An Experiment in Participatory Curation" (2015)](http://www.digitalhumanities.org/dhq/vol/9/4/000220/000220.html) - On crowd-sourcing OCR postcorrection
+#### 2011 and before
+* [Adaptive degraded document image binarization](http://doai.io/10.1016/j.patcog.2005.09.010) (2006) Gatos, Pratikakis, Perantonis
+
+#### 2012
+* [Local Logistic Classifiers for Large Scale Learning](http://www.academia.edu/2959462/Local_Logistic_Classifiers_for_Large_Scale_Learning) (2012) Yousefi, Breuel
+
+#### 2013
+* [High Performance OCR for Printed English and Fraktur using LSTM Networks](http://staffhome.ecm.uwa.edu.au/~00082689/papers/Breuel-LSTM-OCR-ICDAR13.pdf) (2013) Breuel, Ul-Hasan, Mayce Al Azawi. Shafait
+* [Can we build language-independent OCR using LSTM networks?](https://www.researchgate.net/publication/260341307_Can_we_build_language-independent_OCR_using_LSTM_networks) (2013) Ul-Hasan, Breuel
+* [Offline Printed Urdu Nastaleeq Script Recognition with Bidirectional LSTM Networks](http://staffhome.ecm.uwa.edu.au/~00082689/papers/Adnan-Urdu-OCR-ICDAR13.pdf) (2013) Ul-Hasan, Ahmed, Rashid, Shafait, Breuel
+
+#### 2014
+* [OCR of historical printings of Latin texts: Problems, Prospects, Progress.](http://www.springmann.net/papers/2014-04-07-DATeCH2014-springmann.pdf) (2014) Springmann, Najock, Morgenroth, Schmid, Gotscharek, Fink
+
+#### 2015
+* [TypeWright: An Experiment in Participatory Curation](http://www.digitalhumanities.org/dhq/vol/9/4/000220/000220.html) (2015) Bilansky
+  * On crowd-sourcing OCR postcorrection
+* [Benchmarking of LSTM Networks](http://arxiv.org/abs/1508.02774) (2015) Breuel
+* [Recognition of Historical Greek Polytonic Scripts Using LSTM](http://users.iit.demokritos.gr/~bgat/OldDocPro/05_paper_305.pdf) (2015) Simistira, Ul-Hassan, Papavassiliou, Basilis Gatos, Katsouros, Liwicki
+* [A Segmentation-Free Approach for Printed Devanagari Script Recognition](https://www.researchgate.net/publication/280777081_A_Segmentation-Free_Approach_for_Printed_Devanagari_Script_Recognition) (2015) Karayil, Ul-Hasan, Breuel
+* [A Sequence Learning Approach for Multiple Script Identification](https://www.researchgate.net/publication/280777013_A_Sequence_Learning_Approach_for_Multiple_Script_Identification) (2015) Ul-Hasan, Afzal, Shfait, Liwicki, Breuel
+
+#### 2016
+* [Important New Developments in Arabographic Optical Character Recognition (OCR)](http://www.academia.edu/28923960/Important_New_Developments_in_Arabographic_Optical_Character_Recognition_OCR_) (2016) Romanov, Miller, Savant, Kiessling 
+  * on [kraken](#ocr-engines)
+* [OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus](https://arxiv.org/abs/1608.02153) (2016) Springmann, Lüdeling
+* [Automatic quality evaluation and (semi-) automatic improvement of mixed models for OCR on historical documents](http://arxiv.org/abs/1606.05157) (2016) Springmann, Fink, Schulz
+* [Generic Text Recognition using Long Short-Term Memory Networks](https://kluedo.ub.uni-kl.de/frontdoor/index/index/docId/4353) (2016) Ul-Hasan -- Ph.D Thesis
+* [OCRoRACT: A Sequence Learning OCR System Trained on Isolated Characters](https://www.researchgate.net/publication/294575734_OCRoRACT_A_Sequence_Learning_OCR_System_Trained_on_Isolated_Characters) (2016) Andreas Dengel, Ul-Hasan, Bukhari
