@@ -172,6 +172,7 @@ Contributions are welcome, as is feedback.
   Article on how to work with OCR on PDFs in the [R programming environment](https://www.r-project.org/)
 * [@bmschmidt](https://github.com/bmschmidt):
   [Tutorial: Command-line OCR on a Mac](http://benschmidt.org/dighist13/?page_id=129) - Tutorial on how to run tesseract in Mac OSX
+* [@jze](https://github.com/jze) (2016): [Practical Expercience with OCRopus Model Training](https://comsys.informatik.uni-kiel.de/lang/de/res/practical-expercience-with-ocropus-model-training/)
 
 ### OCR Showcases
 
