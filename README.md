@@ -155,24 +155,29 @@ Contributions are welcome, as is feedback.
 * [eadh.org projects](http://eadh.org/projects) - List of Digital Humanities-related projects in Europe, some related to OCR
 * [Wikipedia: Comparison of optical character recognition software](https://en.wikipedia.org/wiki/Comparison_of_optical_character_recognition_software)
 * [OCR [and Deep Learning]](http://handong1587.github.io/deep_learning/2015/10/09/ocr.html) by [@handong1587](https://github.com/handong1587/)
+* [Ocropus Wiki: Publications](https://github.com/tmbdev/ocropy/wiki/Publications)
 
 ### Blog Posts and Tutorials
 
-* [@theraysmith](https://github.com/theraysmith) (2016): [Tesseract Blends Old and New OCR Technology](https://github.com/tesseract-ocr/docs/tree/master/das_tutorial2016) - Tutorial@DAS2016, Updated "What You Always Wanted to Know" slides
-* [@theraysmith](https://github.com/theraysmith) (2014): [What You Always Wanted To Know About Tesseract](https://drive.google.com/folderview?id=0B7l10Bj_LprhQnpSRkpGMGV2eE0&usp#list) - Tutorial@DAS2014, includes demos
-* [@danvk](https://github.com/danvk): [Extracting text from an image using Ocropus](http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html)
-* [@danvk](https://github.com/danvk): [Training an Ocropus OCR model](http://www.danvk.org/2015/01/11/training-an-ocropus-ocr-model.html)
-* [@zuphilip](https://github.com/zuphilip): [Ocropus Wiki: Compute errors and confusions](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusions)
-* [@zuphilip](https://github.com/zuphilip): [Ocropus Wiki: Working with Ground Truth](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusion://github.com/tmbdev/ocropy/wiki/Working-with-Ground-Truth)
-* [@jze](https://github.com/jze): [OCRopus](https://comsys.informatik.uni-kiel.de/lang/de/res/ocropus/) - mostly on column separation in ocropus
-* [@cneud](https://github.com/cneud): [10 Tips for making your OCR project succeed](http://blog.kbresearch.nl/2013/12/12/10-tips-for-making-your-ocr-project-succeed/) - general things to consider for OCR projects
+* [Tesseract Blends Old and New OCR Technology](https://github.com/tesseract-ocr/docs/tree/master/das_tutorial2016) (2016) [@theraysmith](https://github.com/theraysmith)
+  * Tutorial@DAS2016, Updated "What You Always Wanted to Know" slides
+* [What You Always Wanted To Know About Tesseract](https://drive.google.com/folderview?id=0B7l10Bj_LprhQnpSRkpGMGV2eE0&usp#list) (2014) [@theraysmith](https://github.com/theraysmith)
+  * Tutorial@DAS2014, includes demos
+* [Extracting text from an image using Ocropus](http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html) (2015)
+* [Training an Ocropus OCR model](http://www.danvk.org/2015/01/11/training-an-ocropus-ocr-model.html) (2015) [@danvk](https://github.com/danvk)
+* [Ocropus Wiki: Compute errors and confusions](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusions) (2016) [@zuphilip](https://github.com/zuphilip)
+* [Ocropus Wiki: Working with Ground Truth](https://github.com/tmbdev/ocropy/wiki/Compute-errors-and-confusion://github.com/tmbdev/ocropy/wiki/Working-with-Ground-Truth) (2016) [@zuphilip](https://github.com/zuphilip)
+* [OCRopus](https://comsys.informatik.uni-kiel.de/lang/de/res/ocropus/) (2016) [@jze](https://github.com/jze)
+  * mostly on column separation in ocropus
+* [10 Tips for making your OCR project succeed](http://blog.kbresearch.nl/2013/12/12/10-tips-for-making-your-ocr-project-succeed/) (2013) [@cneud](https://github.com/cneud)
+  * general things to consider for OCR projects
 * [Overview of LEADTOOLS Image Cleanup and Pre-processing SDK Technology](https://www.leadtools.com/sdk/image-processing/document) -
-  This feature list for a commercial image pre-processing library has nice before-after samples for pre-processing steps related to OCR
-* [@shawngraham](https://github.com/shawngraham): [Extracting Text from PDFs; Doing OCR; all within R](https://electricarchaeology.ca/2014/07/15/doing-ocr-within-r/)
-  Article on how to work with OCR on PDFs in the [R programming environment](https://www.r-project.org/)
-* [@bmschmidt](https://github.com/bmschmidt):
-  [Tutorial: Command-line OCR on a Mac](http://benschmidt.org/dighist13/?page_id=129) - Tutorial on how to run tesseract in Mac OSX
-* [@jze](https://github.com/jze) (2016): [Practical Expercience with OCRopus Model Training](https://comsys.informatik.uni-kiel.de/lang/de/res/practical-expercience-with-ocropus-model-training/)
+  * feature list for a commercial image pre-processing library; has nice before-after samples for pre-processing steps related to OCR
+* [Extracting Text from PDFs; Doing OCR; all within R](https://electricarchaeology.ca/2014/07/15/doing-ocr-within-r/) [@shawngraham](https://github.com/shawngraham)
+  * How to work with OCR from PDFs in the [R programming environment](https://www.r-project.org/)
+* [Tutorial: Command-line OCR on a Mac](http://benschmidt.org/dighist13/?page_id=129) [@bmschmidt](https://github.com/bmschmidt)
+  * Tutorial on how to run tesseract in Mac OSX
+* [Practical Expercience with OCRopus Model Training](https://comsys.informatik.uni-kiel.de/lang/de/res/practical-expercience-with-ocropus-model-training/) (2016) [@jze](https://github.com/jze)
 
 ### OCR Showcases
 
