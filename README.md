@@ -188,6 +188,7 @@ Contributions are welcome, as is feedback.
 ### Academic articles
 
 #### 2011 and before
+* [High performance document layout analysis](http://www.dfki.de/web/research/publications/renameFileForDownload?filename=HighPerfDocLayoutAna.pdf&file_id=uploads_552) (2003) Breuel
 * [Adaptive degraded document image binarization](http://doai.io/10.1016/j.patcog.2005.09.010) (2006) Gatos, Pratikakis, Perantonis
 
 #### 2012
