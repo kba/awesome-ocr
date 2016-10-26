@@ -190,7 +190,7 @@ Contributions are welcome, as is feedback.
 #### 2011 and before
 * [High performance document layout analysis](http://www.dfki.de/web/research/publications/renameFileForDownload?filename=HighPerfDocLayoutAna.pdf&file_id=uploads_552) (2003) Breuel
 * [Adaptive degraded document image binarization](http://doai.io/10.1016/j.patcog.2005.09.010) (2006) Gatos, Pratikakis, Perantonis
-* [[Internship Report]](http://s3.amazonaws.com/academia.edu.documents/30914347/Trinabh-Tech-Report-2007.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&Expires=1477171457&Signature=TEYGaoY9Yzgfo2fuToXpNVqFalA%3D&response-content-disposition=inline%3B%20filename%3DInternship_Report.pdf) (2007) Gupta
+* [[Internship Report]](http://www.madm.eu/_media/theses/ocropusgupta.pdf) (2007) Gupta
 * [OCRopus Addons (Internship Report)](http://madm.dfki.de/_media/theses/ocropusdantrey.pdf) (2007) Dantrey
 
 #### 2012
