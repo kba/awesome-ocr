@@ -15,6 +15,7 @@ Contributions are welcome, as is feedback.
 	* [OCR file formats](#ocr-file-formats)
 		* [hOCR](#hocr)
 		* [ALTO XML](#alto-xml)
+	* [OCR CLI](#ocr-cli)
 	* [OCR GUI](#ocr-gui)
 	* [OCR Preprocessing](#ocr-preprocessing)
 	* [OCR as a Service](#ocr-as-a-service)
@@ -70,6 +71,9 @@ Contributions are welcome, as is feedback.
 * [alto-tools](https://github.com/cneud/alto-tools) - Various tools to work with ALTO files, Python
 * [AbbyyToAlto](https://github.com/ironymark/AbbyyToAlto) - PHP script converting from Abbyy 6 to ALTO XML
 
+### OCR CLI
+
+* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched 
 
 ### OCR GUI
 
