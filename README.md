@@ -15,6 +15,7 @@ Contributions are welcome, as is feedback.
 	* [OCR file formats](#ocr-file-formats)
 		* [hOCR](#hocr)
 		* [ALTO XML](#alto-xml)
+	* [OCR CLI](#ocr-cli)
 	* [OCR GUI](#ocr-gui)
 	* [OCR Preprocessing](#ocr-preprocessing)
 	* [OCR as a Service](#ocr-as-a-service)
