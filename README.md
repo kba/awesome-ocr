@@ -51,6 +51,7 @@ Contributions are welcome, as is feedback.
 * [digit](https://github.com/SHUCV/digit) - OCR for numbers in meter displays, such as a power meter, using [caffe](http://caffe.berkeleyvision.org/)
 * [ocular](https://github.com/tberg12/ocular) - Machine-learning OCR for historic documents
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - fast and simple OCR library written in Swift
+* [Attention-OCR](https://github.com/da03/Attention-OCR) - OCR engine using visual attention mechanisms
 
 ### OCR file formats
 
