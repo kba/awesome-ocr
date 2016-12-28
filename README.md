@@ -69,6 +69,9 @@ Contributions are welcome, as is feedback.
 * [alto-tools](https://github.com/cneud/alto-tools) - Various tools to work with ALTO files, Python
 * [AbbyyToAlto](https://github.com/ironymark/AbbyyToAlto) - PHP script converting from Abbyy 6 to ALTO XML
 
+### OCR CLI
+
+* [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched 
 
 ### OCR GUI
 
