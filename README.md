@@ -215,6 +215,7 @@ Contributions are welcome, as is feedback.
 
 #### 2014
 * [OCR of historical printings of Latin texts: Problems, Prospects, Progress.](http://www.springmann.net/papers/2014-04-07-DATeCH2014-springmann.pdf) (2014) Springmann, Najock, Morgenroth, Schmid, Gotscharek, Fink
+* [Correcting Noisy OCR: Context beats Confusion](http://dx.doi.org/10.1145/2595188.2595200) (2014) Evershed, Fitch
 
 #### 2015
 * [TypeWright: An Experiment in Participatory Curation](http://www.digitalhumanities.org/dhq/vol/9/4/000220/000220.html) (2015) Bilansky
