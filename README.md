@@ -190,6 +190,7 @@ Contributions are welcome, as is feedback.
 * [Tutorial: Command-line OCR on a Mac](http://benschmidt.org/dighist13/?page_id=129) [@bmschmidt](https://github.com/bmschmidt)
   * Tutorial on how to run tesseract in Mac OSX
 * [Practical Expercience with OCRopus Model Training](https://comsys.informatik.uni-kiel.de/lang/de/res/practical-expercience-with-ocropus-model-training/) (2016) [@jze](https://github.com/jze)
+* [Optimizing Binarization for OCRopus](https://comsys.informatik.uni-kiel.de/lang/de/res/optimizing-binarization-for-ocropus/) (2017) [@jze](https://github.com/jze)
 
 ### OCR Showcases
 
