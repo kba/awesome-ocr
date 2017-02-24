@@ -42,7 +42,7 @@ Contributions are welcome, as is feedback.
 ### OCR engines
 
 * [tesseract](https://github.com/tesseract-ocr/tesseract) - The definitive Open Source OCR engine `Apache 2.0`
-* [ocropus](https://github.com/tmbdev/ocropy) - OCR engine based on CLSTM, `Apache 2.0`
+* [ocropus](https://github.com/tmbdev/ocropy) - OCR engine based on LSTM, `Apache 2.0`
 * [ocropus 0.4](https://github.com/jkrall/ocropus) - Older v0.4 state of Ocropus, with tesseract 2.04 and iulib, C++
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
 * [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
