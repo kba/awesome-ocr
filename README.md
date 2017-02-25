@@ -31,7 +31,7 @@ Contributions are welcome, as is feedback.
 	* [OCR training tools](#ocr-training-tools)
 * [Literature](#literature)
 	* [OCR-related publication and link lists](#ocr-related-publication-and-link-lists)
-	* [Blog Posts and Tutorials](#blog-posts-and-tutorials)
+	* [Blog Posts and Tutorials](#nnnnnnnn-posts-and-tutorials)
 	* [OCR Showcases](#ocr-showcases)
 	* [Academic articles](#academic-articles)
 
@@ -96,6 +96,8 @@ Contributions are welcome, as is feedback.
 * [typeface-corpus](https://github.com/jbest/typeface-corpus) - A repository for typefaces to train Tesseract and OCRopus for natural history collections and digital humanities.
 * [binarizewolfjolion](https://github.com/zp-j/binarizewolfjolion) - Comparison of binarization algorithms. [Blog post](http://zp-j.github.io/2013/10/04/document-binarization/)
 * [`crop_morphology.py` in oldnyc](https://github.com/danvk/oldnyc) - Cropping a page to just the text block
+* [Whiteboard Picture Cleaner](https://gist.github.com/lelandbatey/8677901) - Shell one-liner/script to clean up and beautify photos of whiteboards
+
 
 ### OCR as a Service
 
@@ -193,7 +195,6 @@ Contributions are welcome, as is feedback.
 * [Homemade Manuscript OCR (1): OCRopy](http://graal.hypotheses.org/786) (2017) [@Jean-Baptiste-Camps](https://github.com/Jean-Baptiste-Camps)
   * Tutorial on applying OCR to medieval manuscripts with OCRopy
 * [Optimizing Binarization for OCRopus](https://comsys.informatik.uni-kiel.de/lang/de/res/optimizing-binarization-for-ocropus/) (2017) [@jze](https://github.com/jze)
-
 
 ### OCR Showcases
 
