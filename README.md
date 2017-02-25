@@ -237,3 +237,8 @@ Contributions are welcome, as is feedback.
 * [Automatic quality evaluation and (semi-) automatic improvement of mixed models for OCR on historical documents](http://arxiv.org/abs/1606.05157) (2016) Springmann, Fink, Schulz
 * [Generic Text Recognition using Long Short-Term Memory Networks](https://kluedo.ub.uni-kl.de/frontdoor/index/index/docId/4353) (2016) Ul-Hasan -- Ph.D Thesis
 * [OCRoRACT: A Sequence Learning OCR System Trained on Isolated Characters](https://www.researchgate.net/publication/294575734_OCRoRACT_A_Sequence_Learning_OCR_System_Trained_on_Isolated_Characters) (2016) Andreas Dengel, Ul-Hasan, Bukhari
+
+#### 2017
+
+* [Telugu OCR Framework using Deep Learning](https://arxiv.org/abs/1509.05962) (2015/2017) [Achanta](https://github.com/rakeshvar), Hastie
+  * see also [TeluguOCR](https://github.com/TeluguOCR), [banti_telugu_ocr](https://github.com/TeluguOCR/banti_telugu_ocr), [chamanti_ocr](https://github.com/rakeshvar/chamanti_ocr), [#49](https://github.com/kba/awesome-ocr/issues/49)
