@@ -31,7 +31,7 @@ Contributions are welcome, as is feedback.
 	* [OCR training tools](#ocr-training-tools)
 * [Literature](#literature)
 	* [OCR-related publication and link lists](#ocr-related-publication-and-link-lists)
-	* [Blog Posts and Tutorials](#nnnnnnnn-posts-and-tutorials)
+	* [Blog Posts and Tutorials](#blog-posts-and-tutorials)
 	* [OCR Showcases](#ocr-showcases)
 	* [Academic articles](#academic-articles)
 
