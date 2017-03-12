@@ -51,6 +51,7 @@ Contributions are welcome, as is feedback.
 * [ocular](https://github.com/tberg12/ocular) - Machine-learning OCR for historic documents
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - fast and simple OCR library written in Swift
 * [Attention-OCR](https://github.com/da03/Attention-OCR) - OCR engine using visual attention mechanisms
+* [RWTH-OCR](https://www-i6.informatik.rwth-aachen.de/rwth-ocr/) - The RWTH Aachen University Optical Character Recognition System
 
 ### OCR file formats
 
