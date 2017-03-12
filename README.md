@@ -15,6 +15,7 @@ Contributions are welcome, as is feedback.
 	* [OCR file formats](#ocr-file-formats)
 		* [hOCR](#hocr)
 		* [ALTO XML](#alto-xml)
+		* [TEI](#tei)
 	* [OCR CLI](#ocr-cli)
 	* [OCR GUI](#ocr-gui)
 	* [OCR Preprocessing](#ocr-preprocessing)
@@ -27,6 +28,7 @@ Contributions are welcome, as is feedback.
 		* [NodeJS](#nodejs)
 		* [PHP](#php)
 		* [Python](#python)
+		* [Javascript](#javascript)
 		* [Ruby](#ruby)
 	* [OCR training tools](#ocr-training-tools)
 * [Literature](#literature)
@@ -47,11 +49,21 @@ Contributions are welcome, as is feedback.
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
 * [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
 * [Ocrad](http://www.gnu.org/software/ocrad/) - The GNU OCR. `GPL`
-* [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
 * [digit](https://github.com/SHUCV/digit) - OCR for numbers in meter displays, such as a power meter, using [caffe](http://caffe.berkeleyvision.org/)
 * [ocular](https://github.com/tberg12/ocular) - Machine-learning OCR for historic documents
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - fast and simple OCR library written in Swift
 * [Attention-OCR](https://github.com/da03/Attention-OCR) - OCR engine using visual attention mechanisms
+* [RWTH-OCR](https://www-i6.informatik.rwth-aachen.de/rwth-ocr/) - The RWTH Aachen University Optical Character Recognition System
+
+Older (abandoned?) OCR engines
+
+* [Clara OCR](http://freecode.com/projects/claraocr/) - Open source OCR in C `GPL`
+* [Cuneiform](https://en.wikipedia.org/wiki/CuneiForm_(software)) - CuneiForm OCR was developed by Cognitive Technologies
+* [Eye](https://sourceforge.net/projects/eyeocr/) - an experimental Java OCR (image-to-text) application
+* [kognition](https://sourceforge.net/projects/kognition/) - An omnifont OCR software for KDE
+* [OCRchie](https://people.eecs.berkeley.edu/~fateman/kathey/ocrchie.html) - Modular Optical Character Recognition Software
+* [ocre](http://lem.eui.upm.es/ocre.html) - o.c.r. easy
+* [xplab](http://www.pattern-lab.de/) - A GTK 2 tool for pattern matching
 
 ### OCR file formats
 
@@ -72,6 +84,12 @@ Contributions are welcome, as is feedback.
 * [ALTO XML Documentation](https://github.com/altoxml/documentation) - Documentation and use cases for ALTO
 * [alto-tools](https://github.com/cneud/alto-tools) - Various tools to work with ALTO files, Python
 * [AbbyyToAlto](https://github.com/ironymark/AbbyyToAlto) - PHP script converting from Abbyy 6 to ALTO XML
+
+#### TEI
+
+* [TEI-OCR](https://github.com/OpenPhilology/tei-ocr) - TEI customization for OCR generated layout and content information
+* [TEI SIG on Libraries](http://www.tei-c.org/SIG/Libraries/teiinlibraries/main-driver.html) - Best Practices for TEI in Libraries
+* [GDZ](http://gdz.sub.uni-goettingen.de/uploads/media/GDZ_document_format_2005_12_08.pdf) - METS/TEI-based GDZ document format
 
 ### OCR CLI
 
@@ -150,6 +168,12 @@ Contributions are welcome, as is feedback.
 * [pyocr](https://github.com/jflesch/pyocr) - A Python wrapper for Tesseract and Cuneiform.
 * [ocrodjvu](https://github.com/jwilk/ocrodjvu) - A library and standalone tool for doing OCR on DjVu documents, wrapping Cuneiform, gocr, ocrad, ocropus and tesseract
 
+#### Javascript
+
+* [gocr.js](https://github.com/antimatter15/gocr.js) - Javascript port (emscripten) of gocr
+* [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
+* [tesseract.js](https://github.com/naptha/tesseract.js) - Javascript port (emscripten) of Tesseract
+
 #### Ruby
 
 * [rtesseract](https://github.com/dannnylo/rtesseract) - Ruby library wrapping the tesseract and imagemagick executables.
@@ -195,6 +219,8 @@ Contributions are welcome, as is feedback.
 * [Homemade Manuscript OCR (1): OCRopy](http://graal.hypotheses.org/786) (2017) [@Jean-Baptiste-Camps](https://github.com/Jean-Baptiste-Camps)
   * Tutorial on applying OCR to medieval manuscripts with OCRopy
 * [Optimizing Binarization for OCRopus](https://comsys.informatik.uni-kiel.de/lang/de/res/optimizing-binarization-for-ocropus/) (2017) [@jze](https://github.com/jze)
+* [Prototype demo for OCR postfix in Danish Newspapers](https://sbdevel.wordpress.com/2016/11/15/prototype-demo-for-ocr-postfix-in-danish-newspapers/) (2016) [@thomasegense](https://github.com/thomasegense)
+* [How Can I OCR My Dictionary?](https://digilex.hypotheses.org/153) (2016) [@JessedeDoes](https://github.com/JessedeDoes)
 
 ### OCR Showcases
 
