@@ -151,7 +151,9 @@ Contributions are welcome, as is feedback.
 
 #### Javacsript
 
+* [gocr.js](https://github.com/antimatter15/gocr.js) - Javascript port (emscripten) of gocr
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
+* [tesseract.js](https://github.com/naptha/tesseract.js) - Javascript port (emscripten) of Tesseract
 
 
 #### Ruby
