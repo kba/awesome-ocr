@@ -27,6 +27,7 @@ Contributions are welcome, as is feedback.
 		* [NodeJS](#nodejs)
 		* [PHP](#php)
 		* [Python](#python)
+		* [Javascript](#javascript)
 		* [Ruby](#ruby)
 	* [OCR training tools](#ocr-training-tools)
 * [Literature](#literature)
@@ -149,12 +150,11 @@ Contributions are welcome, as is feedback.
 * [pyocr](https://github.com/jflesch/pyocr) - A Python wrapper for Tesseract and Cuneiform.
 * [ocrodjvu](https://github.com/jwilk/ocrodjvu) - A library and standalone tool for doing OCR on DjVu documents, wrapping Cuneiform, gocr, ocrad, ocropus and tesseract
 
-#### Javacsript
+#### Javascript
 
 * [gocr.js](https://github.com/antimatter15/gocr.js) - Javascript port (emscripten) of gocr
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
 * [tesseract.js](https://github.com/naptha/tesseract.js) - Javascript port (emscripten) of Tesseract
-
 
 #### Ruby
 
