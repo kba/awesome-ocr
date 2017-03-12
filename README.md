@@ -47,7 +47,6 @@ Contributions are welcome, as is feedback.
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
 * [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
 * [Ocrad](http://www.gnu.org/software/ocrad/) - The GNU OCR. `GPL`
-* [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
 * [digit](https://github.com/SHUCV/digit) - OCR for numbers in meter displays, such as a power meter, using [caffe](http://caffe.berkeleyvision.org/)
 * [ocular](https://github.com/tberg12/ocular) - Machine-learning OCR for historic documents
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - fast and simple OCR library written in Swift
@@ -149,6 +148,11 @@ Contributions are welcome, as is feedback.
 * [pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract.
 * [pyocr](https://github.com/jflesch/pyocr) - A Python wrapper for Tesseract and Cuneiform.
 * [ocrodjvu](https://github.com/jwilk/ocrodjvu) - A library and standalone tool for doing OCR on DjVu documents, wrapping Cuneiform, gocr, ocrad, ocropus and tesseract
+
+#### Javacsript
+
+* [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
+
 
 #### Ruby
 
