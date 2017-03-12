@@ -12,6 +12,7 @@ Contributions are welcome, as is feedback.
 <!-- BEGIN-MARKDOWN-TOC -->
 * [Software](#software)
 	* [OCR engines](#ocr-engines)
+	* [Older OCR engines](#older-and-possibly-abandoned-ocr-engines)
 	* [OCR file formats](#ocr-file-formats)
 		* [hOCR](#hocr)
 		* [ALTO XML](#alto-xml)
@@ -53,7 +54,7 @@ Contributions are welcome, as is feedback.
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - fast and simple OCR library written in Swift
 * [Attention-OCR](https://github.com/da03/Attention-OCR) - OCR engine using visual attention mechanisms
 
-Older (abandoned?) OCR engines
+### Older and possibly abandoned OCR engines
 
 * [Clara OCR](http://freecode.com/projects/claraocr/) - Open source OCR in C `GPL`
 * [Cuneiform](https://en.wikipedia.org/wiki/CuneiForm_(software)) - CuneiForm OCR was developed by Cognitive Technologies
