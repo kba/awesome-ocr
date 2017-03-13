@@ -15,6 +15,7 @@ Contributions are welcome, as is feedback.
 	* [OCR file formats](#ocr-file-formats)
 		* [hOCR](#hocr)
 		* [ALTO XML](#alto-xml)
+		* [TEI](#tei)
 	* [OCR CLI](#ocr-cli)
 	* [OCR GUI](#ocr-gui)
 	* [OCR Preprocessing](#ocr-preprocessing)
@@ -73,6 +74,12 @@ Contributions are welcome, as is feedback.
 * [ALTO XML Documentation](https://github.com/altoxml/documentation) - Documentation and use cases for ALTO
 * [alto-tools](https://github.com/cneud/alto-tools) - Various tools to work with ALTO files, Python
 * [AbbyyToAlto](https://github.com/ironymark/AbbyyToAlto) - PHP script converting from Abbyy 6 to ALTO XML
+
+#### TEI
+
+* [TEI-OCR](https://github.com/OpenPhilology/tei-ocr) - TEI customization for OCR generated layout and content information
+* [TEI SIG on Libraries](http://www.tei-c.org/SIG/Libraries/teiinlibraries/main-driver.html) - Best Practices for TEI in Libraries
+* [GDZ](http://gdz.sub.uni-goettingen.de/uploads/media/GDZ_document_format_2005_12_08.pdf) - METS/TEI-based GDZ document format
 
 ### OCR CLI
 
