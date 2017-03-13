@@ -63,6 +63,7 @@ Contributions are welcome, as is feedback.
 * [OCRchie](https://people.eecs.berkeley.edu/~fateman/kathey/ocrchie.html) - Modular Optical Character Recognition Software
 * [ocre](http://lem.eui.upm.es/ocre.html) - o.c.r. easy
 * [xplab](http://www.pattern-lab.de/) - A GTK 2 tool for pattern matching
+* [hebOCR](https://github.com/yaacov/hebocr) - Hebrew character recognition library (previously named hocr, see [Wikipedia article](https://de.wikipedia.org/wiki/HebOCR)) `GPL`
 
 ### OCR file formats
 
