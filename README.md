@@ -26,7 +26,7 @@ Contributions are welcome, as is feedback.
 		* [Go](#go)
 		* [Java](#java)
 		* [.Net](#net)
-		* [NodeJS](#nodejs)
+		* [Javascript](#javascript)
 		* [PHP](#php)
 		* [Python](#python)
 		* [Ruby](#ruby)
@@ -47,9 +47,7 @@ Contributions are welcome, as is feedback.
 * [ocropus](https://github.com/tmbdev/ocropy) - OCR engine based on LSTM, `Apache 2.0`
 * [ocropus 0.4](https://github.com/jkrall/ocropus) - Older v0.4 state of Ocropus, with tesseract 2.04 and iulib, C++
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
-* [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
 * [Ocrad](http://www.gnu.org/software/ocrad/) - The GNU OCR. `GPL`
-* [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
 * [digit](https://github.com/SHUCV/digit) - OCR for numbers in meter displays, such as a power meter, using [caffe](http://caffe.berkeleyvision.org/)
 * [ocular](https://github.com/tberg12/ocular) - Machine-learning OCR for historic documents
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - fast and simple OCR library written in Swift
@@ -154,11 +152,6 @@ Contributions are welcome, as is feedback.
 
 * [tesseract for .net](https://github.com/charlesw/tesseract) - A .Net wrapper for tesseract-ocr.
 
-#### NodeJS
-
-* [node-tesseract](https://github.com/desmondmorris/node-tesseract) - A simple wrapper for the Tesseract OCR package.
-* [node-tesseract-native](https://github.com/mdelete/node-tesseract-native) - C++ module for node providing OCR with tesseract and leptonica.
-
 #### PHP
 
 * [Tesseract OCR for PHP](https://github.com/thiagoalessio/tesseract-ocr-for-php) - Tesseract PHP bindings.
@@ -168,6 +161,15 @@ Contributions are welcome, as is feedback.
 * [pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract.
 * [pyocr](https://github.com/jflesch/pyocr) - A Python wrapper for Tesseract and Cuneiform.
 * [ocrodjvu](https://github.com/jwilk/ocrodjvu) - A library and standalone tool for doing OCR on DjVu documents, wrapping Cuneiform, gocr, ocrad, ocropus and tesseract
+
+#### Javascript
+
+* [ocracy](https://github.com/naptha/ocracy) - pure javascript lstm rnn implementation based on ocropus
+* [gocr.js](https://github.com/antimatter15/gocr.js) - Javascript port (emscripten) of gocr
+* [ocrad.js](https://github.com/antimatter15/ocrad.js) - Javascript port (emscripten) of ocrad
+* [tesseract.js](https://github.com/naptha/tesseract.js) - Javascript port (emscripten) of Tesseract
+* [node-tesseract](https://github.com/desmondmorris/node-tesseract) - A simple wrapper for the Tesseract OCR package.
+* [node-tesseract-native](https://github.com/mdelete/node-tesseract-native) - C++ module for node providing OCR with tesseract and leptonica.
 
 #### Ruby
 
