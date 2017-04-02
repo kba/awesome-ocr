@@ -130,6 +130,7 @@ Contributions are welcome, as is feedback.
 * [ocr-tools](https://github.com/subugoe/ocr-tools) - Project to provide CLI and web service interfaces to common OCR engines
 * [ocrad-docker](https://github.com/kba/ocrad-docker) - Run the [ocrad](http://www.gnu.org/software/ocrad/) OCR engine in a docker container
 * [kraken-docker](https://github.com/kba/kraken-docker) - Run the [kraken](https://github.com/mittagessen/kraken) OCR engine in a docker container
+* [ocr.space](https://ocr.space/) - Free Online OCR and OCR API by [@a9t9](https://github.com/A9T9) based on Tesseract (code is not open)
 
 ### OCR evaluation
 
