@@ -259,6 +259,7 @@ Contributions are welcome, as is feedback.
 #### 2016
 * [Important New Developments in Arabographic Optical Character Recognition (OCR)](http://www.academia.edu/28923960/Important_New_Developments_in_Arabographic_Optical_Character_Recognition_OCR_) (2016) Romanov, Miller, Savant, Kiessling 
   * on [kraken](#ocr-engines)
+  * using [OpenArabic/OCR_GS_Data](https://github.com/OpenArabic/OCR_GS_Data) for ground truth data
 * [OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus](https://arxiv.org/abs/1608.02153) (2016) Springmann, Lüdeling
 * [Automatic quality evaluation and (semi-) automatic improvement of mixed models for OCR on historical documents](http://arxiv.org/abs/1606.05157) (2016) Springmann, Fink, Schulz
 * [Generic Text Recognition using Long Short-Term Memory Networks](https://kluedo.ub.uni-kl.de/frontdoor/index/index/docId/4353) (2016) Ul-Hasan -- Ph.D Thesis
