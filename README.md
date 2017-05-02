@@ -224,6 +224,10 @@ Contributions are welcome, as is feedback.
 * [Optimizing Binarization for OCRopus](https://comsys.informatik.uni-kiel.de/lang/de/res/optimizing-binarization-for-ocropus/) (2017) [@jze](https://github.com/jze)
 * [Prototype demo for OCR postfix in Danish Newspapers](https://sbdevel.wordpress.com/2016/11/15/prototype-demo-for-ocr-postfix-in-danish-newspapers/) (2016) [@thomasegense](https://github.com/thomasegense)
 * [How Can I OCR My Dictionary?](https://digilex.hypotheses.org/153) (2016) [@JessedeDoes](https://github.com/JessedeDoes)
+* ["Needlessly complex" blog](https://mzucker.github.io/) (2016) [@mzucker](https://github.com/mzucker). Several image processing how-tos (Python based), particularly:
+  * [Page dewarping](https://mzucker.github.io/2016/08/15/page-dewarping.html) ([code](https://github.com/mzucker/page_dewarp))
+  * [Compressing and enhancing hand-written notes](https://mzucker.github.io/2016/09/20/noteshrink.html) ([code](https://github.com/mzucker/noteshrink))
+  * [Unprojecting text with ellipses](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html) ([code](https://github.com/mzucker/unproject_text))
 
 ### OCR Showcases
 
