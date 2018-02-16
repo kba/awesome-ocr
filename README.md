@@ -51,7 +51,7 @@ Contributions are welcome, as is feedback.
 * [digit](https://github.com/SHUCV/digit) - OCR for numbers in meter displays, such as a power meter, using [caffe](http://caffe.berkeleyvision.org/)
 * [ocular](https://github.com/tberg12/ocular) - Machine-learning OCR for historic documents
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - fast and simple OCR library written in Swift
-* [Attention-OCR](https://github.com/da03/Attention-OCR) - OCR engine using visual attention mechanisms
+* [attention-ocr](https://github.com/emedvedev/attention-ocr) - OCR engine using visual attention mechanisms
 * [RWTH-OCR](https://www-i6.informatik.rwth-aachen.de/rwth-ocr/) - The RWTH Aachen University Optical Character Recognition System
 * [simple-ocr-opencv](https://github.com/goncalopp/simple-ocr-opencv) and its [fork](https://github.com/RedFantom/simple-ocr-opencv) - A simple pythonic OCR engine using opencv and numpy
 
