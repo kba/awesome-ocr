@@ -5,7 +5,7 @@ Awesome OCR
 
 This list contains links to great software tools and libraries and literature
 related to [Optical Character Recognition
-(OCR)](http://en.wikipwdia.org/wiki/Optical_Character_Recognition).
+(OCR)](http://en.wikipedia.org/wiki/Optical_Character_Recognition).
 
 Contributions are welcome, as is feedback.
 
