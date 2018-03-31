@@ -30,6 +30,7 @@ Contributions are welcome, as is feedback.
 		* [PHP](#php)
 		* [Python](#python)
 		* [Ruby](#ruby)
+		* [Rust](#rust)
 	* [OCR training tools](#ocr-training-tools)
 * [Literature](#literature)
 	* [OCR-related publication and link lists](#ocr-related-publication-and-link-lists)
@@ -181,6 +182,10 @@ Contributions are welcome, as is feedback.
 * [rtesseract](https://github.com/dannnylo/rtesseract) - Ruby library wrapping the tesseract and imagemagick executables.
 * [ruby-tesseract](https://github.com/meh/ruby-tesseract-ocr) - Native Tesseract bindings for Ruby MRI and JRuby
 * [ocr_space](https://github.com/suyesh/ocr_space) - API wrapper for free ocr service ocr.space. Includes CLI
+
+#### Rust
+
+* [tesseract.rs](https://github.com/antimatter15/tesseract-rs) - Rust bindings for tesseract OCR.
 
 ### OCR training tools
 
