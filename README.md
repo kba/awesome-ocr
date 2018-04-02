@@ -118,6 +118,7 @@ Contributions are welcome, as is feedback.
 * [OCRFeeder](https://wiki.gnome.org/Apps/OCRFeeder) - GTK graphical user interface that allows the users to correct characters or bounding boxes, ODT export and more.
 * [PRImA PAGE Viewer](https://github.com/PRImA-Research-Lab/prima-page-viewer) - Java based viewer for PAGE XML files (layout + text content). Also supports ALTO XML, FineReader XML, and HOCR.
 * [LAREX](https://github.com/chreul/larex) - A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books. 
+* [archiscribe](https://github.com/jbaiter/archiscribe) - Web application for transcribing OCR ground truth from Archive.org. Deployed instance available at https://archiscribe.jbaiter.de/, results are available in [@jbaiter/archiscribe-corpus](https://github.com/jbaiter/archiscribe-corpus).
 
 ### OCR Preprocessing
 
