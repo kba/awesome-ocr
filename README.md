@@ -242,6 +242,7 @@ Contributions are welcome, as is feedback.
   * [Page dewarping](https://mzucker.github.io/2016/08/15/page-dewarping.html) ([code](https://github.com/mzucker/page_dewarp))
   * [Compressing and enhancing hand-written notes](https://mzucker.github.io/2016/09/20/noteshrink.html) ([code](https://github.com/mzucker/noteshrink))
   * [Unprojecting text with ellipses](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html) ([code](https://github.com/mzucker/unproject_text))
+* [(Open-Source-)OCR-Workflows](https://edoc.bbaw.de/frontdoor/index/index/docId/2786) (2017) [@wrznr](https://github.com/wrznr) :de: overview of the state of the art in open source OCR and related technologies (binarisation, deskewing, layout recognition, etc.), lots of example images and information on the [@OCR-D](https://github.com/OCR-D) project.
 
 ### OCR Showcases
 
