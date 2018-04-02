@@ -12,7 +12,7 @@ Contributions are welcome, as is feedback.
 <!-- BEGIN-MARKDOWN-TOC -->
 * [Software](#software)
 	* [OCR engines](#ocr-engines)
-	* [Older OCR engines](#older-and-possibly-abandoned-ocr-engines)
+	* [Older and possibly abandoned OCR engines](#older-and-possibly-abandoned-ocr-engines)
 	* [OCR file formats](#ocr-file-formats)
 		* [hOCR](#hocr)
 		* [ALTO XML](#alto-xml)
@@ -26,9 +26,9 @@ Contributions are welcome, as is feedback.
 		* [Go](#go)
 		* [Java](#java)
 		* [.Net](#net)
-		* [Javascript](#javascript)
 		* [PHP](#php)
 		* [Python](#python)
+		* [Javascript](#javascript)
 		* [Ruby](#ruby)
 		* [Rust](#rust)
 	* [OCR training tools](#ocr-training-tools)
@@ -37,6 +37,13 @@ Contributions are welcome, as is feedback.
 	* [Blog Posts and Tutorials](#blog-posts-and-tutorials)
 	* [OCR Showcases](#ocr-showcases)
 	* [Academic articles](#academic-articles)
+		* [2011 and before](#2011-and-before)
+		* [2012](#2012)
+		* [2013](#2013)
+		* [2014](#2014)
+		* [2015](#2015)
+		* [2016](#2016)
+		* [2017](#2017)
 
 <!-- END-MARKDOWN-TOC -->
 
