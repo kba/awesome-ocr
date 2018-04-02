@@ -278,7 +278,7 @@ Contributions are welcome, as is feedback.
 * [A Sequence Learning Approach for Multiple Script Identification](https://www.researchgate.net/publication/280777013_A_Sequence_Learning_Approach_for_Multiple_Script_Identification) (2015) Ul-Hasan, Afzal, Shfait, Liwicki, Breuel
 
 #### 2016
-* [Important New Developments in Arabographic Optical Character Recognition (OCR)](http://www.academia.edu/28923960/Important_New_Developments_in_Arabographic_Optical_Character_Recognition_OCR_) (2016) Romanov, Miller, Savant, Kiessling
+* [Important New Developments in Arabographic Optical Character Recognition (OCR)](https://arxiv.org/abs/1703.09550) (2016) Romanov, Miller, Savant, Kiessling
   * on [kraken](#ocr-engines)
   * using [OpenArabic/OCR_GS_Data](https://github.com/OpenArabic/OCR_GS_Data) for ground truth data
 * [OCR of historical printings with an application to building diachronic corpora: A case study using the RIDGES herbal corpus](https://arxiv.org/abs/1608.02153) (2016) Springmann, Lüdeling
