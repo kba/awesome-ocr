@@ -177,6 +177,7 @@ Contributions are welcome, as is feedback.
 * [pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract.
 * [pyocr](https://github.com/jflesch/pyocr) - A Python wrapper for Tesseract and Cuneiform.
 * [ocrodjvu](https://github.com/jwilk/ocrodjvu) - A library and standalone tool for doing OCR on DjVu documents, wrapping Cuneiform, gocr, ocrad, ocropus and tesseract
+* [tesserocr](https://github.com/sirfz/tesserocr) - A Python wrapper for the tesseract-ocr API
 
 #### Javascript
 
