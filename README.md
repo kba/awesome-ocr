@@ -31,6 +31,7 @@ Contributions are welcome, as is feedback.
 		* [Javascript](#javascript)
 		* [Ruby](#ruby)
 		* [Rust](#rust)
+		* [R](#r)
 	* [OCR training tools](#ocr-training-tools)
 * [Literature](#literature)
 	* [OCR-related publication and link lists](#ocr-related-publication-and-link-lists)
@@ -197,6 +198,10 @@ Contributions are welcome, as is feedback.
 #### Rust
 
 * [tesseract.rs](https://github.com/antimatter15/tesseract-rs) - Rust bindings for tesseract OCR.
+
+#### R
+
+* [tesseract](https://github.com/ropensci/tesseract) - R bindings for tesseract OCR.
 
 ### OCR training tools
 
