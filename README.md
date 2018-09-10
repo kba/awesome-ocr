@@ -133,7 +133,7 @@ Contributions are welcome, as is feedback.
 * [`crop_morphology.py` in oldnyc](https://github.com/danvk/oldnyc) - Cropping a page to just the text block
 * [Whiteboard Picture Cleaner](https://gist.github.com/lelandbatey/8677901) - Shell one-liner/script to clean up and beautify photos of whiteboards
 * Fred's ImageMagick script [textcleaner](http://www.fmwconcepts.com/imagemagick/textcleaner/index.php) - Processes a scanned document of text to clean the text background
-*
+* [localcontrast](https://sourceforge.net/projects/localcontrast/) - Fast O(1) local contrast optimization
 
 
 ### OCR as a Service
