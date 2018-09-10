@@ -26,6 +26,7 @@ Contributions are welcome, as is feedback.
 		* [Go](#go)
 		* [Java](#java)
 		* [.Net](#net)
+		* [Object Pascal](#object-pascal)
 		* [PHP](#php)
 		* [Python](#python)
 		* [Javascript](#javascript)
@@ -45,6 +46,7 @@ Contributions are welcome, as is feedback.
 		* [2015](#2015)
 		* [2016](#2016)
 		* [2017](#2017)
+		* [2018](#2018)
 
 <!-- END-MARKDOWN-TOC -->
 
@@ -170,6 +172,10 @@ Contributions are welcome, as is feedback.
 #### .Net
 
 * [tesseract for .net](https://github.com/charlesw/tesseract) - A .Net wrapper for tesseract-ocr.
+
+#### Object Pascal
+
+* [TTesseractOCR4](https://github.com/r1me/TTesseractOCR4) - Object Pascal binding for tesseract-ocr 4.x.
 
 #### PHP
 
