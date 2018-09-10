@@ -63,6 +63,7 @@ Contributions are welcome, as is feedback.
 * [attention-ocr](https://github.com/emedvedev/attention-ocr) - OCR engine using visual attention mechanisms
 * [RWTH-OCR](https://www-i6.informatik.rwth-aachen.de/rwth-ocr/) - The RWTH Aachen University Optical Character Recognition System
 * [simple-ocr-opencv](https://github.com/goncalopp/simple-ocr-opencv) and its [fork](https://github.com/RedFantom/simple-ocr-opencv) - A simple pythonic OCR engine using opencv and numpy
+* [Calamari](https://github.com/Calamari-OCR/calamari) - OCR Engine based on OCRopy and Kraken
 
 ### Older and possibly abandoned OCR engines
 
@@ -130,6 +131,7 @@ Contributions are welcome, as is feedback.
 * [`crop_morphology.py` in oldnyc](https://github.com/danvk/oldnyc) - Cropping a page to just the text block
 * [Whiteboard Picture Cleaner](https://gist.github.com/lelandbatey/8677901) - Shell one-liner/script to clean up and beautify photos of whiteboards
 * Fred's ImageMagick script [textcleaner](http://www.fmwconcepts.com/imagemagick/textcleaner/index.php) - Processes a scanned document of text to clean the text background
+*
 
 
 ### OCR as a Service
@@ -298,3 +300,8 @@ Contributions are welcome, as is feedback.
 
 * [Telugu OCR Framework using Deep Learning](https://arxiv.org/abs/1509.05962) (2015/2017) [Achanta](https://github.com/rakeshvar), Hastie
   * see also [TeluguOCR](https://github.com/TeluguOCR), [banti_telugu_ocr](https://github.com/TeluguOCR/banti_telugu_ocr), [chamanti_ocr](https://github.com/rakeshvar/chamanti_ocr), [#49](https://github.com/kba/awesome-ocr/issues/49)
+
+
+#### 2018
+
+* [A Two-Stage Method for Text Line Detection in Historical Documents](https://arxiv.org/abs/1802.03345) (2018) [Grüning](https://github.com/TobiasGruening), Leifert, Strauß, Labahn. Code available at https://github.com/TobiasGruening/ARU-Net
