@@ -258,6 +258,7 @@ Contributions are welcome, as is feedback.
   * [Compressing and enhancing hand-written notes](https://mzucker.github.io/2016/09/20/noteshrink.html) ([code](https://github.com/mzucker/noteshrink))
   * [Unprojecting text with ellipses](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html) ([code](https://github.com/mzucker/unproject_text))
 * [(Open-Source-)OCR-Workflows](https://edoc.bbaw.de/frontdoor/index/index/docId/2786) (2017) [@wrznr](https://github.com/wrznr) :de: overview of the state of the art in open source OCR and related technologies (binarisation, deskewing, layout recognition, etc.), lots of example images and information on the [@OCR-D](https://github.com/OCR-D) project.
+* [A gentle introduction to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa) (2018) [@shgidi](https://github.com/shgidi)
 
 ### OCR Showcases
 
