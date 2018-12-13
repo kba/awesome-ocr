@@ -34,6 +34,8 @@ Contributions are welcome, as is feedback.
 		* [Rust](#rust)
 		* [R](#r)
 	* [OCR training tools](#ocr-training-tools)
+* [Datasets](#datasets)
+	* [Ground Truth](#ground-truth)
 * [Literature](#literature)
 	* [OCR-related publication and link lists](#ocr-related-publication-and-link-lists)
 	* [Blog Posts and Tutorials](#blog-posts-and-tutorials)
@@ -214,6 +216,40 @@ Contributions are welcome, as is feedback.
 ### OCR training tools
 
 * [glyph-miner](https://github.com/benedikt-budig/glyph-miner) - A system for extracting glyphs from early typeset prints
+
+## Datasets
+
+### Ground Truth
+
+* [archiscribe-corpus](https://github.com/jbaiter/archiscribe-corpus) - >4,200 lines transcribed from 19th Century German prints via [archiscribe](https://archiscribe.jbaiter.de/) `CC-BY 4.0`
+* [CIS OCR Test Set](https://github.com/cisocrgroup/Resources/tree/master/ocrtestset) - 2 example documents each in German/Latin/Greek with ground truth for [PoCoTo](https://github.com/cisocrgroup/PoCoTo)
+* [CLTK](https://github.com/cltk) - Corpora from [Classical Language Toolkit](http://cltk.org/) `PDM 1.0`
+* [DIVA-HisDB](https://diuf.unifr.ch/main/hisdoc/diva-hisdb) - 150 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> of three medieval manuscripts `CC-BY-NC 3.0`
+* [EarlyPrintedBooks](https://github.com/chreul/OCR_Testdata_EarlyPrintedBooks) - ~8,800 lines from several early printed books `CC-BY-NC-SA 4.0`
+* [EEBO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp) - 25,363 EEBO documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-eebo/) `PDM 1.0`
+* [ECCO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) - 2,188 ECCO documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-ecco/) `PDM 1.0`
+* [eMOP-TCP](https://github.com/Early-Modern-OCR/TCP-ECCO-texts) - 2,188 ECCO-TCP documents, cleaned up by [eMOP](http://emop.tamu.edu/) `PDM 1.0`
+* [Evans-TCP](https://github.com/Anterotesis/historical-texts/tree/master/evans-tcp) - 4,977 Evans documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-evans/)
+* [FDHN](https://digi.kansalliskirjasto.fi/opendata/submit?set_language=en) - Finnish Digitised Historical Newspapers, [Paper](http://doi.org/10.1045/july2016-paakkonen), (free) [registration](https://digi.kansalliskirjasto.fi/opendata/submit?set_language=en) required, [Terms of Use](https://digi.kansalliskirjasto.fi/terms)
+* [GERMANA](https://www.prhlt.upv.es/wp/resource/the-germana-corpus) - 764 Spanish manuscript pages, (free) [registration](https://www.prhlt.upv.es/wp/resource/the-germana-corpus) required `non-commercial use only`
+* [GT4HistOCR](https://doi.org/10.5281/zenodo.1344132) - Ground Truth for German Fraktur and Early Modern Latin `CC-BY 4.0`
+* [imagessan](https://github.com/Shreeshrii/imagessan/) - Sanskrit images & ground truth (Devanagari script)
+* [IMPACT-BHL](http://www.bhle.eu/en/results-of-the-collaboration-of-bhl-europe-and-impact) - 2,418 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from the Biodiversity Heritage Library, [XML@GitHub](https://github.com/impactcentre/groundtruth-bhl) `CC-BY 3.0`
+* [IMPACT-BL](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BL&search-filter-language=&search-filter-script=&search-filter-year=) - 294 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from the British Library, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `PDM 1.0`
+* [IMPACT-BNE](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BNE&search-filter-language=&search-filter-script=&search-filter-year=) - 215 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from the National Library of Spain, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required, [XML@GitHub](https://github.com/impactcentre/groundtruth-spa) `CC-BY-NC-SA 4.0`
+* [IMPACT-BNF](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=BNE&search-filter-language=&search-filter-script=&search-filter-year=) - 151 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from the National Library of France, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
+* [IMPACT-KB](http://lab.kb.nl/dataset/ground-truth-impact-project#access) - 142 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from the National Library of the Netherlands `CC-BY 4.0`
+* [IMPACT-NKC](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NKC&search-filter-language=&search-filter-script=&search-filter-year=) - 187 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from the Czech National Library, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
+* [IMPACT-NLB](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NLB&search-filter-language=&search-filter-script=&search-filter-year=) - 19 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from the National Library of Bulgaria, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-ND 4.0`
+* [IMPACT-NUK](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NUK&search-filter-language=&search-filter-script=&search-filter-year=) - 209 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from the National Library of Slovenia, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
+* [IMPACT-PSNC](http://dl.psnc.pl/activities/projekty/impact/results/) - 478 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from four Polish digital libraries, [XML@GitHub](https://github.com/impactcentre/groundtruth-pol) `CC-BY 3.0`
+* [MJSynth](http://www.robots.ox.ac.uk/~vgg/data/text/) - 9m synthetic images covering 90k English words
+* [OCR19thSAC](https://files.ifi.uzh.ch/cl/OCR19thSAC/) - 19,000 pages Swiss Alpine Club yearbooks transcribed via [Text+Berg digital](http://textberg.ch/site/en/welcome/) `CC-BY 4.0`
+* [OCR-D](http://ocr-d.de/daten) - 180 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> of German historical prints from [OCR-D](http://ocr-d.de/) `CC-BY-SA 4.0`
+* [OCR_GS_Data](https://github.com/OpenITI/OCR_GS_Data) - Double-checked Arabic Gold Standard from [OpenITI](https://github.com/OpenITI)
+* [old-books](https://github.com/PedroBarcha/old-books-dataset) - 322 old books from [Project Gutenberg](https://www.gutenberg.org/) `GPL 3.0`
+* [PRImA-ENP](http://www.primaresearch.org/datasets/ENP) - 528 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> historic newspapers from [Europeana Newspapers](http://www.europeana-newspapers.eu/), (free) [registration](http://www.primaresearch.org/register) required `PDM 1.0`
+* [RODRIGO](https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus) - 853 Spanish manuscript pages, (free) [registration](https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus) required `non-commercial use only`
 
 ## Literature
 
