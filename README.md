@@ -224,6 +224,7 @@ Contributions are welcome, as is feedback.
 
 * [archiscribe-corpus](https://github.com/jbaiter/archiscribe-corpus) - >4,200 lines transcribed from 19th Century German prints via [archiscribe](https://archiscribe.jbaiter.de/) `CC-BY 4.0`
 * [CIS OCR Test Set](https://github.com/cisocrgroup/Resources/tree/master/ocrtestset) - 2 example documents each in German/Latin/Greek with ground truth for [PoCoTo](https://github.com/cisocrgroup/PoCoTo)
+- [Rescribe](https://github.com/rescribe/carolineminuscule-groundtruth) - Transcriptions of Caroline Minuscule Manuscripts `PDM 1.0`
 * [CLTK](https://github.com/cltk) - Corpora from [Classical Language Toolkit](http://cltk.org/) `PDM 1.0`
 * [DIVA-HisDB](https://diuf.unifr.ch/main/hisdoc/diva-hisdb) - 150 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> of three medieval manuscripts `CC-BY-NC 3.0`
 * [EarlyPrintedBooks](https://github.com/chreul/OCR_Testdata_EarlyPrintedBooks) - ~8,800 lines from several early printed books `CC-BY-NC-SA 4.0`
@@ -232,6 +233,7 @@ Contributions are welcome, as is feedback.
 * [eMOP-TCP](https://github.com/Early-Modern-OCR/TCP-ECCO-texts) - 2,188 ECCO-TCP documents, cleaned up by [eMOP](http://emop.tamu.edu/) `PDM 1.0`
 * [Evans-TCP](https://github.com/Anterotesis/historical-texts/tree/master/evans-tcp) - 4,977 Evans documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-evans/)
 * [FDHN](https://digi.kansalliskirjasto.fi/opendata/submit?set_language=en) - Finnish Digitised Historical Newspapers, [Paper](http://doi.org/10.1045/july2016-paakkonen), (free) [registration](https://digi.kansalliskirjasto.fi/opendata/submit?set_language=en) required, [Terms of Use](https://digi.kansalliskirjasto.fi/terms)
+* [FROC-MSS](https://github.com/Jean-Baptiste-Camps/FROC-MSS) - 4 Old French Medieval Manuscripts `CC-BY 4.0`
 * [GERMANA](https://www.prhlt.upv.es/wp/resource/the-germana-corpus) - 764 Spanish manuscript pages, (free) [registration](https://www.prhlt.upv.es/wp/resource/the-germana-corpus) required `non-commercial use only`
 * [GT4HistOCR](https://doi.org/10.5281/zenodo.1344132) - Ground Truth for German Fraktur and Early Modern Latin `CC-BY 4.0`
 * [imagessan](https://github.com/Shreeshrii/imagessan/) - Sanskrit images & ground truth (Devanagari script)
@@ -244,6 +246,7 @@ Contributions are welcome, as is feedback.
 * [IMPACT-NLB](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NLB&search-filter-language=&search-filter-script=&search-filter-year=) - 19 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from the National Library of Bulgaria, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-ND 4.0`
 * [IMPACT-NUK](https://www.digitisation.eu/tools-resources/image-and-ground-truth-resources/impact-dataset-browser/?query=&search-filter-institution=NUK&search-filter-language=&search-filter-script=&search-filter-year=) - 209 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from the National Library of Slovenia, (free) [registration](https://www.digitisation.eu/wp-login.php?action=register) required `CC-BY-NC-SA 4.0`
 * [IMPACT-PSNC](http://dl.psnc.pl/activities/projekty/impact/results/) - 478 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> from four Polish digital libraries, [XML@GitHub](https://github.com/impactcentre/groundtruth-pol) `CC-BY 3.0`
+* [LascivaRoma/lexical](https://github.com/lascivaroma/lexical) - Transcription of 19th century lexical resources for Latin learning
 * [MJSynth](http://www.robots.ox.ac.uk/~vgg/data/text/) - 9m synthetic images covering 90k English words
 * [OCR19thSAC](https://files.ifi.uzh.ch/cl/OCR19thSAC/) - 19,000 pages Swiss Alpine Club yearbooks transcribed via [Text+Berg digital](http://textberg.ch/site/en/welcome/) `CC-BY 4.0`
 * [OCR-D](http://ocr-d.de/daten) - 180 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> of German historical prints from [OCR-D](http://ocr-d.de/) `CC-BY-SA 4.0`
@@ -251,6 +254,7 @@ Contributions are welcome, as is feedback.
 * [old-books](https://github.com/PedroBarcha/old-books-dataset) - 322 old books from [Project Gutenberg](https://www.gutenberg.org/) `GPL 3.0`
 * [PRImA-ENP](http://www.primaresearch.org/datasets/ENP) - 528 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> historic newspapers from [Europeana Newspapers](http://www.europeana-newspapers.eu/), (free) [registration](http://www.primaresearch.org/register) required `PDM 1.0`
 * [RODRIGO](https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus) - 853 Spanish manuscript pages, (free) [registration](https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus) required `non-commercial use only`
+* [Toebler-OCR](https://github.com/PonteIneptique/toebler-ocr) - (Kraken) Ground Truth transcription of few pages of the Tobler-Lommatzsch: Altfranzösisches Wörterbuch
 
 ## Literature
 
