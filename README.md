@@ -129,7 +129,7 @@ Contributions are welcome, as is feedback.
 
 ### OCR Preprocessing
 
-* [NoiseRemove.java in MathOCR](https://github.com/chungkwong/MathOCR/blob/master/src/net/sf/mathocr/preprocess/NoiseRemove.java) - Java implementation of
+* [NoiseRemove.java in MathOCR](https://github.com/chungkwong/MathOCR/blob/master/src/main/java/com/github/chungkwong/mathocr/preprocess/NoiseRemove.java) - Java implementation of
 * [binarize.c in ZBar](https://github.com/ZBar/ZBar/blob/master/zbar/qrcode/binarize.c) - C implementations of two binarization algorithms, based on Sauvola
 * [typeface-corpus](https://github.com/jbest/typeface-corpus) - A repository for typefaces to train Tesseract and OCRopus for natural history collections and digital humanities.
 * [binarizewolfjolion](https://github.com/zp-j/binarizewolfjolion) - Comparison of binarization algorithms. [Blog post](http://zp-j.github.io/2013/10/04/document-binarization/)
