@@ -300,7 +300,7 @@ Contributions are welcome, as is feedback.
   * [Unprojecting text with ellipses](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html) ([code](https://github.com/mzucker/unproject_text))
 * [(Open-Source-)OCR-Workflows](https://edoc.bbaw.de/frontdoor/index/index/docId/2786) (2017) [@wrznr](https://github.com/wrznr) :de: overview of the state of the art in open source OCR and related technologies (binarisation, deskewing, layout recognition, etc.), lots of example images and information on the [@OCR-D](https://github.com/OCR-D) project.
 * [A gentle introduction to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa) (2018) [@shgidi](https://github.com/shgidi)
-* [Worauf kann ich mich verlassen? Arbeiten mit digitalisierten Quellen, Teil 1: OCR](https://blog.ub.unibas.ch/2019/06/04/worauf-kann-ich-mich-verlassen-arbeiten-mit-digitalisierten-quellen-teil-1-ocr/)  (2019) [@eliaskreyenbuehl] :de: A reflection/criticism on OCR quality, OCR pitfalls in Fraktur fonts.
+* [Worauf kann ich mich verlassen? Arbeiten mit digitalisierten Quellen, Teil 1: OCR](https://blog.ub.unibas.ch/2019/06/04/worauf-kann-ich-mich-verlassen-arbeiten-mit-digitalisierten-quellen-teil-1-ocr/)  (2019) [@eliaskreyenbuehl](https://github.com/eliaskreyenbuehl) :de: A reflection/criticism on OCR quality, OCR pitfalls in Fraktur fonts.
 
 ### OCR Showcases
 
