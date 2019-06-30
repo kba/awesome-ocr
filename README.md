@@ -209,6 +209,7 @@ Contributions are welcome, as is feedback.
 #### Rust
 
 * [tesseract.rs](https://github.com/antimatter15/tesseract-rs) - Rust bindings for tesseract OCR.
+* [leptess](https://crates.io/crates/leptess) - Productive and safe Rust bindings/wrappers for tesseract and leptonica.
 
 #### R
 
