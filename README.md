@@ -217,6 +217,7 @@ Contributions are welcome, as is feedback.
 ### OCR training tools
 
 * [glyph-miner](https://github.com/benedikt-budig/glyph-miner) - A system for extracting glyphs from early typeset prints
+* [ocrodeg](https://github.com/NVlabs/ocrodeg) - Document image degradation for OCR data augmentation
 
 ## Datasets
 
