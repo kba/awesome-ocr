@@ -17,6 +17,7 @@ Contributions are welcome, as is feedback.
 		* [hOCR](#hocr)
 		* [ALTO XML](#alto-xml)
 		* [TEI](#tei)
+		* [PAGE XML](#page-xml)
 	* [OCR CLI](#ocr-cli)
 	* [OCR GUI](#ocr-gui)
 	* [OCR Preprocessing](#ocr-preprocessing)
@@ -105,6 +106,10 @@ Contributions are welcome, as is feedback.
 * [TEI-OCR](https://github.com/OpenPhilology/tei-ocr) - TEI customization for OCR generated layout and content information
 * [TEI SIG on Libraries](http://www.tei-c.org/SIG/Libraries/teiinlibraries/main-driver.html) - Best Practices for TEI in Libraries
 * [GDZ](http://gdz.sub.uni-goettingen.de/uploads/media/GDZ_document_format_2005_12_08.pdf) - METS/TEI-based GDZ document format
+
+#### PAGE XML
+
+* [PAGE-XML Schema](https://github.com/PRImA-Research-Lab/PAGE-XML/tree/master/pagecontent) - XML schema of the PAGE XML format along with documentation and examples
 
 ### OCR CLI
 
