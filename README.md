@@ -17,6 +17,7 @@ Contributions are welcome, as is feedback.
 		* [hOCR](#hocr)
 		* [ALTO XML](#alto-xml)
 		* [TEI](#tei)
+		* [PAGE XML](#page-xml)
 	* [OCR CLI](#ocr-cli)
 	* [OCR GUI](#ocr-gui)
 	* [OCR Preprocessing](#ocr-preprocessing)
