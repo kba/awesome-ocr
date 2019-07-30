@@ -106,6 +106,10 @@ Contributions are welcome, as is feedback.
 * [TEI SIG on Libraries](http://www.tei-c.org/SIG/Libraries/teiinlibraries/main-driver.html) - Best Practices for TEI in Libraries
 * [GDZ](http://gdz.sub.uni-goettingen.de/uploads/media/GDZ_document_format_2005_12_08.pdf) - METS/TEI-based GDZ document format
 
+#### PAGE XML
+
+* [PAGE-XML Schema](https://github.com/PRImA-Research-Lab/PAGE-XML/tree/master/pagecontent) - XML schema of the PAGE XML format along with documentation and examples
+
 ### OCR CLI
 
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
