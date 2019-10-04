@@ -89,7 +89,7 @@ Contributions are welcome, as is feedback.
 #### hOCR
 
 * [hocr-tools](https://github.com/tmbdev/hocr-tools) - Tools for doing various useful things with hOCR files, `Apache 2.0`
-* [hocr-spec](https://github.com/kba/hocr-spec) - hOCR 1.1 specification
+* [hocr-spec](https://github.com/kba/hocr-spec) - hOCR 1.2 specification
 * [ocr-transform](https://github.com/UB-Mannheim/ocr-transform) - CLI tool to convert between hOCR and ALTO, `MIT`
 * [hocr-parser](https://github.com/athento/hocr-parser) - hOCR Specification Python Parser
 * [hOCRTools](https://github.com/ONB-RD/hOCRTools) - hOCR to ALTO conversion XSLT
