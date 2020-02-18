@@ -32,6 +32,7 @@ Contributions are welcome, as is feedback.
 		* [Python](#python)
 		* [Javascript](#javascript)
 		* [Ruby](#ruby)
+		* [Swift](#swift)
 		* [Rust](#rust)
 		* [R](#r)
 	* [OCR training tools](#ocr-training-tools)
@@ -219,6 +220,11 @@ Contributions are welcome, as is feedback.
 #### R
 
 * [tesseract](https://github.com/ropensci/tesseract) - R bindings for tesseract OCR.
+
+#### Swift
+
+* [Tesseract OCR iOS](https://github.com/gali8/Tesseract-OCR-iOS) - Swift and Objective-C wrapper for Tesseract OCR.
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift. Optimized for recognizing short, one line long alphanumeric codes.
 
 ### OCR training tools
 
