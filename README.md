@@ -157,6 +157,7 @@ Contributions are welcome, as is feedback.
 * [ocrad-docker](https://github.com/kba/ocrad-docker) - Run the [ocrad](http://www.gnu.org/software/ocrad/) OCR engine in a docker container
 * [kraken-docker](https://github.com/kba/kraken-docker) - Run the [kraken](https://github.com/mittagessen/kraken) OCR engine in a docker container
 * [ocr.space](https://ocr.space/) - Free Online OCR and OCR API by [@a9t9](https://github.com/A9T9) based on Tesseract (code is not open)
+* [OCR4all](https://github.com/OCR4all/OCR4all) - Provides OCR services through web applications. Included Projects: [LAREX](https://github.com/chreul/LAREX), [OCRopus](https://github.com/tmbdev/ocropy), [calamari](https://github.com/ChWick/calamari) and [nashi](https://github.com/andbue/nashi).
 
 ### OCR evaluation
 
