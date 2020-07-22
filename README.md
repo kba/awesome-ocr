@@ -111,12 +111,16 @@ Contributions are welcome, as is feedback.
 #### PAGE XML
 
 * [PAGE-XML Schema](https://github.com/PRImA-Research-Lab/PAGE-XML/tree/master/pagecontent) - XML schema of the PAGE XML format along with documentation and examples
+* [omni:us Pages Format (OPF)](https://omni-us.github.io/pageformat/pagecontent_omnius.html) - XML schema very similar to PAGE XML that has some additional features.
+* [py-pagexml](https://github.com/omni-us/pagexml) - Python library for handling PAGE XML and OPF files.
 
 ### OCR CLI
 
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 * [Pdf2PdfOCR](https://github.com/LeoFCardoso/pdf2pdfocr) - A tool to OCR a PDF (or supported images) and add a text "layer" (a "pdf sandwich") in the original file making it a searchable PDF. GUI included. Tesseract and cuneiform supported.
 * [Ocrocis](https://github.com/kaumanns/ocrocis) - Project manager interface for Ocropy, see also [external project homepage](http://cistern.cis.lmu.de/ocrocis/)
+* [tesseract-recognize](https://github.com/mauvilsa/tesseract-recognize) - Tesseract-based tool that outputs result in Page XML format ([docker image](https://hub.docker.com/r/mauvilsa/tesseract-recognize)).
+
 
 ### OCR GUI
 
@@ -132,6 +136,7 @@ Contributions are welcome, as is feedback.
 * [PRImA PAGE Viewer](https://github.com/PRImA-Research-Lab/prima-page-viewer) - Java based viewer for PAGE XML files (layout + text content). Also supports ALTO XML, FineReader XML, and HOCR.
 * [LAREX](https://github.com/chreul/larex) - A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books. 
 * [archiscribe](https://github.com/jbaiter/archiscribe) - Web application for transcribing OCR ground truth from Archive.org. Deployed instance available at https://archiscribe.jbaiter.de/, results are available in [@jbaiter/archiscribe-corpus](https://github.com/jbaiter/archiscribe-corpus).
+* [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files. Provides desktop and [server docker-based](https://hub.docker.com/r/mauvilsa/nw-page-editor-web) versions.
 
 ### OCR Preprocessing
 
