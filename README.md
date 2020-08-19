@@ -63,7 +63,6 @@ Contributions are welcome, as is feedback.
 * [ocropus 0.4](https://github.com/jkrall/ocropus) - Older v0.4 state of Ocropus, with tesseract 2.04 and iulib, C++
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
 * [Ocrad](http://www.gnu.org/software/ocrad/) - The GNU OCR. `GPL`
-* [digit](https://github.com/SHUCV/digit) - OCR for numbers in meter displays, such as a power meter, using [caffe](http://caffe.berkeleyvision.org/)
 * [ocular](https://github.com/tberg12/ocular) - Machine-learning OCR for historic documents
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - fast and simple OCR library written in Swift
 * [attention-ocr](https://github.com/emedvedev/attention-ocr) - OCR engine using visual attention mechanisms
