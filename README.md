@@ -62,6 +62,7 @@ Contributions are welcome, as is feedback.
 * [ocropus](https://github.com/tmbdev/ocropy) - OCR engine based on LSTM, `Apache 2.0`
 * [ocropus 0.4](https://github.com/jkrall/ocropus) - Older v0.4 state of Ocropus, with tesseract 2.04 and iulib, C++
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
+* [gocr](https://www-e.ovgu.de/jschulen/ocr/) - OCR engine under the GNU Public License led by Joerg Schulenburg.
 * [Ocrad](http://www.gnu.org/software/ocrad/) - The GNU OCR. `GPL`
 * [ocular](https://github.com/tberg12/ocular) - Machine-learning OCR for historic documents
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - fast and simple OCR library written in Swift
