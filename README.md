@@ -153,6 +153,7 @@ Contributions are welcome, as is feedback.
 
 ### OCR as a Service
 
+* [Cloudmersive](https://api.cloudmersive.com/docs/ocr.asp) - Unified and free OCR APIs, available in several programming languages.
 * [Open OCR](https://github.com/tleyden/open-ocr) - Run Tesseract in Docker containers
 * [tesseract-web-service](https://github.com/guitarmind/tesseract-web-service) - An implementation of RESTful web service for tesseract-OCR using tornado.
 * [docker-ocropy](https://github.com/kba/docker-ocropy) - A Docker container for running the [ocropy OCR system](htps://github.com/tmbdev/ocropy).
