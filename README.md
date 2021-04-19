@@ -24,6 +24,8 @@ Contributions are welcome, as is feedback.
 	* [OCR as a Service](#ocr-as-a-service)
 	* [OCR evaluation](#ocr-evaluation)
 	* [OCR libraries by programming language](#ocr-libraries-by-programming-language)
+		* [Crystal](#crystal)
+		* [Elixir](#elixir)
 		* [Go](#go)
 		* [Java](#java)
 		* [.Net](#net)
@@ -176,6 +178,14 @@ Contributions are welcome, as is feedback.
 * [quack](https://github.com/tokee/quack) - Quality-Assurance-tool for scans with corresponding ALTO-files
 
 ### OCR libraries by programming language
+
+#### Crystal
+
+* [tesseract-ocr](https://github.com/dannnylo/tesseract-ocr-crystal) - A Crystal wrapper for tesseract-ocr.
+
+#### Elixir
+
+* [tesseract_ocr](https://github.com/dannnylo/tesseract-ocr-elixir) - Elixir library wrapping the tesseract executable.
 
 #### Go
 
