@@ -73,6 +73,7 @@ Contributions are welcome, as is feedback.
 * [RWTH-OCR](https://www-i6.informatik.rwth-aachen.de/rwth-ocr/) - The RWTH Aachen University Optical Character Recognition System
 * [simple-ocr-opencv](https://github.com/goncalopp/simple-ocr-opencv) and its [fork](https://github.com/RedFantom/simple-ocr-opencv) - A simple pythonic OCR engine using opencv and numpy
 * [Calamari](https://github.com/Calamari-OCR/calamari) - OCR Engine based on OCRopy and Kraken
+* [doctr](https://github.com/mindee/doctr) - A seamless & high-performing OCR library powered by Deep Learning
 
 ### Older and possibly abandoned OCR engines
 
