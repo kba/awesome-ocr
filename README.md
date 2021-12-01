@@ -62,6 +62,7 @@ Contributions are welcome, as is feedback.
 
 * [tesseract](https://github.com/tesseract-ocr/tesseract) - The definitive Open Source OCR engine `Apache 2.0`
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) - OCR engine built on PyTorch by JaidedAI, `Apache 2.0` 
+* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - practical ultra lightweight OCR system `Apache 2.0`
 * [ocropus](https://github.com/tmbdev/ocropy) - OCR engine based on LSTM, `Apache 2.0`
 * [ocropus 0.4](https://github.com/jkrall/ocropus) - Older v0.4 state of Ocropus, with tesseract 2.04 and iulib, C++
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
