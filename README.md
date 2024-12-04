@@ -124,6 +124,7 @@ Contributions are welcome, as is feedback.
 * [Pdf2PdfOCR](https://github.com/LeoFCardoso/pdf2pdfocr) - A tool to OCR a PDF (or supported images) and add a text "layer" (a "pdf sandwich") in the original file making it a searchable PDF. GUI included. Tesseract and cuneiform supported.
 * [Ocrocis](https://github.com/kaumanns/ocrocis) - Project manager interface for Ocropy, see also [external project homepage](http://cistern.cis.lmu.de/ocrocis/)
 * [tesseract-recognize](https://github.com/mauvilsa/tesseract-recognize) - Tesseract-based tool that outputs result in Page XML format ([docker image](https://hub.docker.com/r/mauvilsa/tesseract-recognize)).
+* [swiftocr](https://github.com/fny/swiftocr) OCR across an array of file formats for macOS
 
 
 ### OCR GUI
