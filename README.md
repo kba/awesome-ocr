@@ -141,6 +141,7 @@ Contributions are welcome, as is feedback.
 * [LAREX](https://github.com/chreul/larex) - A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books. 
 * [archiscribe](https://github.com/jbaiter/archiscribe) - Web application for transcribing OCR ground truth from Archive.org. Deployed instance available at https://archiscribe.jbaiter.de/, results are available in [@jbaiter/archiscribe-corpus](https://github.com/jbaiter/archiscribe-corpus).
 * [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files. Provides desktop and [server docker-based](https://hub.docker.com/r/mauvilsa/nw-page-editor-web) versions.
+* [https://github.com/brobertson/Lace2](https://github.com/brobertson/Lace2) - GUI-based OCR editing suite that outputs TEI XML Simple. Humans can proofread without direct XML edits. Used in [PerseusDL](https://github.com/PerseusDL) and [First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek)
 
 ### OCR Preprocessing
 
