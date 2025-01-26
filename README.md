@@ -61,7 +61,8 @@ Contributions are welcome, as is feedback.
 ### OCR engines
 
 * [tesseract](https://github.com/tesseract-ocr/tesseract) - The definitive Open Source OCR engine `Apache 2.0`
-* [EasyOCR](https://github.com/JaidedAI/EasyOCR) - OCR engine built on PyTorch by JaidedAI, `Apache 2.0` 
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) - OCR engine built on PyTorch by JaidedAI, `Apache 2.0`
+* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)- OCR engine built on PaddlePaddle by Baidu, `Apache 2.0`
 * [ocropus](https://github.com/tmbdev/ocropy) - OCR engine based on LSTM, `Apache 2.0`
 * [ocropus 0.4](https://github.com/jkrall/ocropus) - Older v0.4 state of Ocropus, with tesseract 2.04 and iulib, C++
 * [kraken](https://github.com/mittagessen/kraken) - Ocropus fork with sane defaults
@@ -177,6 +178,7 @@ Contributions are welcome, as is feedback.
 * [ocrevalUAtion](https://github.com/impactcentre/ocrevalUAtion) - Cross-format evaluation, CLI and GUI
 * [ngram-ocr-eval](https://github.com/impactcentre/hackathon2014/tree/master/ngram-ocr-eval) - Brute and simple OCR evaluation using ngrams
 * [quack](https://github.com/tokee/quack) - Quality-Assurance-tool for scans with corresponding ALTO-files
+* [OCR Comparator](https://ocr-comparator.streamlit.app/) - This app allows you to compare, from a given image, the results of different solutions: EasyOcr, PaddleOCR, MMOCR, Tesseract
 
 ### OCR libraries by programming language
 
