@@ -141,6 +141,7 @@ Contributions are welcome, as is feedback.
 * [LAREX](https://github.com/chreul/larex) - A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books. 
 * [archiscribe](https://github.com/jbaiter/archiscribe) - Web application for transcribing OCR ground truth from Archive.org. Deployed instance available at https://archiscribe.jbaiter.de/, results are available in [@jbaiter/archiscribe-corpus](https://github.com/jbaiter/archiscribe-corpus).
 * [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files. Provides desktop and [server docker-based](https://hub.docker.com/r/mauvilsa/nw-page-editor-web) versions.
+* [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local screen recording with built-in OCR. Uses Apple Vision (macOS), Windows OCR, or Tesseract (Linux) to extract text from everything on your screen. Enables semantic search across all your digital activity.
 
 ### OCR Preprocessing
 
