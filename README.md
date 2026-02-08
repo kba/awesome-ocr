@@ -235,6 +235,7 @@ Contributions are welcome, as is feedback.
 
 * [tesseract.rs](https://github.com/antimatter15/tesseract-rs) - Rust bindings for tesseract OCR.
 * [leptess](https://crates.io/crates/leptess) - Productive and safe Rust bindings/wrappers for tesseract and leptonica.
+* [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - Document intelligence library with built-in OCR support (Tesseract, EasyOCR, PaddleOCR backends). Extracts text from scanned documents and images across 62+ formats. Rust core with bindings for Python, TypeScript, Ruby, Go, Java, C#, PHP, and Elixir.
 
 #### R
 
