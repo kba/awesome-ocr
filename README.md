@@ -168,6 +168,8 @@ Contributions are welcome, as is feedback.
 * [Konfuzio](https://www.konfuzio.com) - Free Online OCR up to 2.000 pages per month and OCR API by [@atraining], see https://youtu.be/NZKUrKyFVA8 (code is not open)
 * [ocr.space](https://ocr.space/) - Free Online OCR and OCR API by [@a9t9](https://github.com/A9T9) based on Tesseract (code is not open)
 * [OCR4all](https://github.com/OCR4all/OCR4all) - Provides OCR services through web applications. Included Projects: [LAREX](https://github.com/chreul/LAREX), [OCRopus](https://github.com/tmbdev/ocropy), [calamari](https://github.com/ChWick/calamari) and [nashi](https://github.com/andbue/nashi).
+* [PDFGem](https://pdfgem.io/) - Free browser-based PDF OCR tool. Extracts text from scanned PDFs using Tesseract.js/WebAssembly. All processing runs client-side — files never leave the browser.
+* [Vizua](https://vizua.io/) - Free browser-based image OCR tool. Extracts text from images (PNG, JPEG, WebP) using WebAssembly. Client-side processing, no server uploads.
 
 ### OCR evaluation
 
