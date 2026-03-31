@@ -161,6 +161,7 @@ Contributions are welcome, as is feedback.
 * [docker-ocropy](https://github.com/kba/docker-ocropy) - A Docker container for running the [ocropy OCR system](htps://github.com/tmbdev/ocropy).
 * [ABBYY Cloud OCR SDK Code samples](https://github.com/abbyysdk/ocrsdk.com) - Code samples for using the proprietary commercial ABBYY OCR API.
 * [nidaba](https://github.com/OpenPhilology/nidaba) -  An expandable and scalable OCR pipeline
+* [DeepRead](https://www.deepread.tech) - AI-native OCR API with 97%+ accuracy using multi-model consensus. Extracts text and structured data from PDFs and images with form filling and PII redaction. Free 2,000 pages/month.
 * [gamera](https://github.com/hsnr-gamera/gamera) - A meta-framework for building document processing applications, e.g. OCR
 * [ocr-tools](https://github.com/subugoe/ocr-tools) - Project to provide CLI and web service interfaces to common OCR engines
 * [ocrad-docker](https://github.com/kba/ocrad-docker) - Run the [ocrad](http://www.gnu.org/software/ocrad/) OCR engine in a docker container
