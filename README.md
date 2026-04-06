@@ -74,6 +74,7 @@ Contributions are welcome, as is feedback.
 * [simple-ocr-opencv](https://github.com/goncalopp/simple-ocr-opencv) and its [fork](https://github.com/RedFantom/simple-ocr-opencv) - A simple pythonic OCR engine using opencv and numpy
 * [Calamari](https://github.com/Calamari-OCR/calamari) - OCR Engine based on OCRopy and Kraken
 * [doctr](https://github.com/mindee/doctr) - A seamless & high-performing OCR library powered by Deep Learning
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for OCR workflow orchestration, automated document processing management, and multi-agent coordination. MIT licensed.
 
 ### Older and possibly abandoned OCR engines
 
