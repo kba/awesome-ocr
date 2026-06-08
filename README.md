@@ -169,6 +169,7 @@ Contributions are welcome, as is feedback.
 * [ocr.space](https://ocr.space/) - Free Online OCR and OCR API by [@a9t9](https://github.com/A9T9) based on Tesseract (code is not open)
 * [OCR4all](https://github.com/OCR4all/OCR4all) - Provides OCR services through web applications. Included Projects: [LAREX](https://github.com/chreul/LAREX), [OCRopus](https://github.com/tmbdev/ocropy), [calamari](https://github.com/ChWick/calamari) and [nashi](https://github.com/andbue/nashi).
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ### OCR evaluation
 
 * [ISRI OCR Evaluation Tools](https://code.google.com/archive/p/isri-ocr-evaluation-tools/) with a [User Guide from 1996 :!:](https://github.com/eddieantonio/isri-ocr-evaluation-tools/blob/HEAD/user-guide.pdf)
