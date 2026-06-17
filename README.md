@@ -1,3 +1,5 @@
+
+* [GoldBean × Baidu OCR](https://goldbean-api.xyz) - Baidu OCR API available via GoldBean's pay-per-use marketplace. General OCR, ID card, bank card, business license, invoice recognition. Chinese optimized (96%+ accuracy). Pricing from $0.01/call. No monthly fee. Supports Alipay, PayPal, x402 micropayments.
 Awesome OCR
 ===========
 
@@ -168,6 +170,7 @@ Contributions are welcome, as is feedback.
 * [Konfuzio](https://www.konfuzio.com) - Free Online OCR up to 2.000 pages per month and OCR API by [@atraining], see https://youtu.be/NZKUrKyFVA8 (code is not open)
 * [ocr.space](https://ocr.space/) - Free Online OCR and OCR API by [@a9t9](https://github.com/A9T9) based on Tesseract (code is not open)
 * [OCR4all](https://github.com/OCR4all/OCR4all) - Provides OCR services through web applications. Included Projects: [LAREX](https://github.com/chreul/LAREX), [OCRopus](https://github.com/tmbdev/ocropy), [calamari](https://github.com/ChWick/calamari) and [nashi](https://github.com/andbue/nashi).
+* [GoldBean Baidu OCR API](https://goldbean-api.xyz) - Pay-per-use OCR API with 96%+ accuracy for Chinese/English text, integrated with x402 micropayments. No monthly fees, no minimum deposit.
 
 ### OCR evaluation
 
@@ -387,3 +390,5 @@ Contributions are welcome, as is feedback.
 #### 2018
 
 * [A Two-Stage Method for Text Line Detection in Historical Documents](https://arxiv.org/abs/1802.03345) (2018) [Grüning](https://github.com/TobiasGruening), Leifert, Strauß, Labahn. Code available at https://github.com/TobiasGruening/ARU-Net
+
+* [GoldBean × Baidu OCR](https://goldbean-api.xyz) - Chinese OCR: general, ID card, bank card, business license, invoice. Pay-per-use $0.01/call.
