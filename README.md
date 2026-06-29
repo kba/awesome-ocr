@@ -215,6 +215,7 @@ Contributions are welcome, as is feedback.
 * [pyocr](https://github.com/jflesch/pyocr) - A Python wrapper for Tesseract and Cuneiform.
 * [ocrodjvu](https://github.com/jwilk/ocrodjvu) - A library and standalone tool for doing OCR on DjVu documents, wrapping Cuneiform, gocr, ocrad, ocropus and tesseract
 * [tesserocr](https://github.com/sirfz/tesserocr) - A Python wrapper for the tesseract-ocr API
+* [TinyDoc-VLM](https://github.com/eulogik/TinyDoc-VLM) - 256M-param document-specialist VLM for OCR, VQA, form extraction, table parsing. SigLIP + SmolLM2. Runs on CPU. `Apache 2.0`
 
 #### Javascript
 
