@@ -134,6 +134,7 @@ Contributions are welcome, as is feedback.
 * [Paperwork](https://github.com/openpaperwork/paperwork) - Using scanners and OCR to grep paper documents the easy way.
 * [Paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents.
 * [gImageReader](https://github.com/manisandro/gImageReader) - gImageReader is a simple Gtk/Qt front-end to tesseract-ocr.
+* [PingYi](https://github.com/qingshihuan/pingyi) - Cross-platform screenshot OCR and translation desktop app with bundled offline recognition and optional local multimodal models. `MIT`
 * [VietOCR](http://vietocr.sourceforge.net/) - A Java/.NET GUI frontend for Tesseract OCR engine, including [jTessBoxEditor](http://vietocr.sourceforge.net/training.html) a graphical Tesseract [box data](https://github.com/tesseract-ocr/tesseract/wiki/Make-Box-Files) editor
 * [PoCoTo](https://github.com/cisocrgroup/PoCoTo) - Fast interactive batch corrections of complete OCR error series in OCR'ed historical documents.
 * [OCRFeeder](https://wiki.gnome.org/Apps/OCRFeeder) - GTK graphical user interface that allows the users to correct characters or bounding boxes, ODT export and more.
