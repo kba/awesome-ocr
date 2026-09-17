@@ -152,6 +152,7 @@ Contributions are welcome, as is feedback.
 * [Whiteboard Picture Cleaner](https://gist.github.com/lelandbatey/8677901) - Shell one-liner/script to clean up and beautify photos of whiteboards
 * Fred's ImageMagick script [textcleaner](http://www.fmwconcepts.com/imagemagick/textcleaner/index.php) - Processes a scanned document of text to clean the text background
 * [localcontrast](https://sourceforge.net/projects/localcontrast/) - Fast O(1) local contrast optimization
+* [danish-htr-line-segmenter](https://github.com/AbhiPandit1/danish-htr-line-segmenter) - Domain-adapted YOLOv8 text-line segmenter for historical documents; loads weights from the [Hugging Face Hub](https://huggingface.co/abhishekjha1008/yolov8m-historical-line-segmenter)
 
 
 ### OCR as a Service
@@ -258,6 +259,7 @@ Contributions are welcome, as is feedback.
 * [CIS OCR Test Set](https://github.com/cisocrgroup/Resources/tree/master/ocrtestset) - 2 example documents each in German/Latin/Greek with ground truth for [PoCoTo](https://github.com/cisocrgroup/PoCoTo)
 - [Rescribe](https://github.com/rescribe/carolineminuscule-groundtruth) - Transcriptions of Caroline Minuscule Manuscripts `PDM 1.0`
 * [CLTK](https://github.com/cltk) - Corpora from [Classical Language Toolkit](http://cltk.org/) `PDM 1.0`
+* [Danish HTR Synthetic Lines](https://github.com/AbhiPandit1/danish-htr-synthetic) - 160,000 synthetic 18th-century Danish handwriting line images with exact ground truth (full set on [Zenodo](https://doi.org/10.5281/zenodo.22093255)) `CC-BY 4.0`
 * [DIVA-HisDB](https://diuf.unifr.ch/main/hisdoc/diva-hisdb) - 150 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> of three medieval manuscripts `CC-BY-NC 3.0`
 * [EarlyPrintedBooks](https://github.com/chreul/OCR_Testdata_EarlyPrintedBooks) - ~8,800 lines from several early printed books `CC-BY-NC-SA 4.0`
 * [EEBO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp) - 25,363 EEBO documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-eebo/) `PDM 1.0`
