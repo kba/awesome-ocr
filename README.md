@@ -291,6 +291,7 @@ Contributions are welcome, as is feedback.
 ## Literature
 
 ### OCR-related publication and link lists
+* [Awesome Offline OCR](https://github.com/yuezhengb/awesome-offline-ocr) - Curated list of offline / local-first OCR, document parsing, and bank-statement digitization tools
 
 * [IMPACT: Tools for text digitisation](http://www.digitisation.eu/tools-resources/tools-for-text-digitisation/) - List of tools software projects related, some related to OCR
 * [OCR-D](https://www.zotero.org/groups/ocr-d) - List of OCR-related academic articles in the context of the [OCR-D](http://www.ocr-d.de/) project. :de:
