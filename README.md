@@ -168,6 +168,7 @@ Contributions are welcome, as is feedback.
 * [Konfuzio](https://www.konfuzio.com) - Free Online OCR up to 2.000 pages per month and OCR API by [@atraining], see https://youtu.be/NZKUrKyFVA8 (code is not open)
 * [ocr.space](https://ocr.space/) - Free Online OCR and OCR API by [@a9t9](https://github.com/A9T9) based on Tesseract (code is not open)
 * [OCR4all](https://github.com/OCR4all/OCR4all) - Provides OCR services through web applications. Included Projects: [LAREX](https://github.com/chreul/LAREX), [OCRopus](https://github.com/tmbdev/ocropy), [calamari](https://github.com/ChWick/calamari) and [nashi](https://github.com/andbue/nashi).
+* [만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/) - Ficory LLC의 기업용 만화 리더는 OCR 기반 이미지 번역을 제공합니다. 제품은 100개 이상 언어와 지원하는 모든 번역 언어를 처리합니다. 개인은 일괄 번역과 맞춤 번역을 수행합니다. 스튜디오는 완전한 온라인 Photoshop 방식 편집기를 사용합니다. 사용자는 API를 개인 워크플로에 연결합니다. 제한된 무료 사용량과 유료 옵션을 제공합니다.
 
 ### OCR evaluation
 
