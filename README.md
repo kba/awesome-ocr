@@ -224,6 +224,7 @@ Contributions are welcome, as is feedback.
 * [tesseract.js](https://github.com/naptha/tesseract.js) - Javascript port (emscripten) of Tesseract
 * [node-tesseract-ocr](https://github.com/zapolnoch/node-tesseract-ocr) - A simple wrapper for the Tesseract OCR package.
 * [node-tesseract-native](https://github.com/mdelete/node-tesseract-native) - C++ module for node providing OCR with tesseract and leptonica.
+* [mrz-repair](https://github.com/Jamshaid-Ali-126/mrz-repair) - Parse, validate and repair passport MRZ text from OCR (ICAO 9303 TD3) using the check digits.
 
 #### Ruby
 
