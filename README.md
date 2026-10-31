@@ -141,7 +141,7 @@ Contributions are welcome, as is feedback.
 * [LAREX](https://github.com/chreul/larex) - A semi-automatic open-source tool for Layout Analysis and Region EXtraction on early printed books. 
 * [archiscribe](https://github.com/jbaiter/archiscribe) - Web application for transcribing OCR ground truth from Archive.org. Deployed instance available at https://archiscribe.jbaiter.de/, results are available in [@jbaiter/archiscribe-corpus](https://github.com/jbaiter/archiscribe-corpus).
 * [nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files. Provides desktop and [server docker-based](https://hub.docker.com/r/mauvilsa/nw-page-editor-web) versions.
-
+* [CamTeX](https://camtex.app) - Free AI-powered tool to convert handwritten math into LaTeX for Overleaf.
 ### OCR Preprocessing
 
 * [NoiseRemove.java in MathOCR](https://github.com/chungkwong/MathOCR/blob/master/src/main/java/com/github/chungkwong/mathocr/preprocess/NoiseRemove.java) - Java implementation of Adaptive degraded document image binarization by B. Gatos , I. Pratikakis, S.J. Perantonis
