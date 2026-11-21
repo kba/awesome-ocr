@@ -259,6 +259,7 @@ Contributions are welcome, as is feedback.
 - [Rescribe](https://github.com/rescribe/carolineminuscule-groundtruth) - Transcriptions of Caroline Minuscule Manuscripts `PDM 1.0`
 * [CLTK](https://github.com/cltk) - Corpora from [Classical Language Toolkit](http://cltk.org/) `PDM 1.0`
 * [DIVA-HisDB](https://diuf.unifr.ch/main/hisdoc/diva-hisdb) - 150 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> of three medieval manuscripts `CC-BY-NC 3.0`
+* [docling-degraded-scan-bench](https://github.com/darshilbabel/docling-degraded-scan-bench) - 260 synthetic page images (37 pages x clean, blur, skew, photocopy, low light, fax, plus native degraded scans) with field-level ground truth and boxes; English, Hindi, Marathi, Bengali, [HF](https://huggingface.co/datasets/Gritworks/docling-degraded-scan-bench) `CC-BY 4.0`
 * [EarlyPrintedBooks](https://github.com/chreul/OCR_Testdata_EarlyPrintedBooks) - ~8,800 lines from several early printed books `CC-BY-NC-SA 4.0`
 * [EEBO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/eebo-tcp) - 25,363 EEBO documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-eebo/) `PDM 1.0`
 * [ECCO-TCP](https://github.com/Anterotesis/historical-texts/tree/master/ecco-tcp) - 2,188 ECCO documents transcribed by [TCP](http://www.textcreationpartnership.org/tcp-ecco/) `PDM 1.0`
