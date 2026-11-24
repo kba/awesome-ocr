@@ -284,6 +284,7 @@ Contributions are welcome, as is feedback.
 * [OCR-D](http://ocr-d.de/daten) - 180 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> of German historical prints from [OCR-D](http://ocr-d.de/) `CC-BY-SA 4.0`
 * [OCR_GS_Data](https://github.com/OpenITI/OCR_GS_Data) - Double-checked Arabic Gold Standard from [OpenITI](https://github.com/OpenITI)
 * [old-books](https://github.com/PedroBarcha/old-books-dataset) - 322 old books from [Project Gutenberg](https://www.gutenberg.org/) `GPL 3.0`
+* [P-mod-open v0](https://huggingface.co/datasets/HeOCR/p-mod-open-v0) - Benchmark for modern unpointed Hebrew OCR with 31 pages and 65 images. [Zenodo DOI](https://doi.org/10.5281/zenodo.24505278) · [Leaderboard](https://huggingface.co/spaces/HeOCR/hebrew-ocr-leaderboard) · [heocr-bench](https://github.com/HeOCR/heocr-bench).
 * [PRImA-ENP](http://www.primaresearch.org/datasets/ENP) - 528 pages<sup>[PAGE-XML](https://github.com/PRImA-Research-Lab/PAGE-XML)</sup> historic newspapers from [Europeana Newspapers](http://www.europeana-newspapers.eu/), (free) [registration](http://www.primaresearch.org/register) required `PDM 1.0`
 * [RODRIGO](https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus) - 853 Spanish manuscript pages, (free) [registration](https://www.prhlt.upv.es/wp/resource/the-rodrigo-corpus) required `non-commercial use only`
 * [Toebler-OCR](https://github.com/PonteIneptique/toebler-ocr) - (Kraken) Ground Truth transcription of few pages of the Tobler-Lommatzsch: Altfranzösisches Wörterbuch
